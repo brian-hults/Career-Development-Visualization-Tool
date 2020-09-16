@@ -1,0 +1,975 @@
+ONET Title	R	I	A	S	E	C
+Chief Executives	1.33	2.0	2.67	3.67	7.0	5.33
+Chief Sustainability Officers	1.0	4.33	2.67	2.33	7.0	4.33
+General and Operations Managers	1.33	1.33	1.0	3.33	7.0	3.67
+Legislators	1.0	3.67	3.67	4.67	7.0	3.0
+Advertising and Promotions Managers	1.67	2.0	5.33	2.33	7.0	4.67
+Green Marketers	1.0	5.33	4.33	2.33	5.33	3.0
+Marketing Managers	1.0	2.33	3.67	2.67	7.0	5.33
+Sales Managers	3.0	2.0	2.0	3.67	7.0	4.67
+Public Relations and Fundraising Managers	1.33	1.33	5.0	3.67	7.0	3.67
+Administrative Services Managers	2.0	2.33	1.0	2.67	7.0	5.33
+Computer and Information Systems Managers	4.0	4.33	1.67	1.67	6.67	5.33
+Treasurers and Controllers	1.67	2.67	1.0	2.67	6.0	7.0
+Financial Managers, Branch or Department	1.67	1.67	1.33	3.33	7.0	5.0
+Industrial Production Managers	2.67	2.33	1.33	3.33	7.0	6.0
+Quality Control Systems Managers	4.33	3.33	1.33	2.0	7.0	5.67
+Geothermal Production Managers	3.67	3.33	2.0	1.67	7.0	5.67
+Biofuels Production Managers	4.0	3.33	1.33	2.0	7.0	5.67
+Biomass Power Plant Managers	5.0	3.0	1.33	2.0	7.0	5.67
+Methane/Landfill Gas Collection System Operators	4.67	3.0	1.67	1.33	5.33	6.67
+Hydroelectric Production Managers	3.67	3.0	1.33	1.33	7.0	5.67
+Purchasing Managers	2.67	2.0	1.33	2.67	7.0	5.33
+Transportation Managers	2.67	2.0	1.67	2.0	7.0	5.33
+Storage and Distribution Managers	3.33	1.0	1.0	2.33	7.0	5.0
+Logistics Managers	3.0	2.0	1.33	1.33	7.0	5.33
+Compensation and Benefits Managers	1.0	1.33	1.67	4.67	7.0	5.33
+Human Resources Managers	1.33	2.33	2.33	5.67	7.0	5.0
+Training and Development Managers	1.33	2.0	3.67	6.0	7.0	4.0
+Nursery and Greenhouse Managers	6.0	2.33	2.67	2.67	7.0	4.67
+Farm and Ranch Managers	6.67	2.67	1.33	1.67	7.0	5.0
+Aquacultural Managers	6.0	3.67	1.67	1.67	7.0	4.67
+Construction Managers	5.67	2.0	1.33	2.0	7.0	4.67
+Education Administrators, Preschool and Childcare Center/Program	1.0	1.67	2.67	6.0	6.0	4.0
+Education Administrators, Elementary and Secondary School	1.33	2.0	2.67	6.33	6.67	4.33
+Education Administrators, Postsecondary	1.0	3.0	3.0	4.67	7.0	5.0
+Distance Learning Coordinators	1.33	3.33	2.67	2.33	6.0	4.67
+Fitness and Wellness Coordinators	3.67	2.67	2.33	4.67	6.67	3.33
+Architectural and Engineering Managers	4.67	4.67	1.67	1.33	7.0	4.0
+Biofuels/Biodiesel Technology and Product Development Managers	3.0	6.0	1.67	2.0	6.67	3.33
+Food Service Managers	4.33	1.67	1.67	4.33	7.0	5.33
+Funeral Service Managers	1.33	2.0	2.0	4.33	7.0	4.67
+Gaming Managers	3.33	2.0	1.67	3.0	7.0	5.0
+Lodging Managers	3.0	1.67	1.33	4.0	7.0	5.33
+Medical and Health Services Managers	1.67	3.33	1.67	5.0	7.0	5.0
+Natural Sciences Managers	3.0	5.33	1.33	1.67	7.0	3.0
+Clinical Research Coordinators	1.33	5.33	2.67	2.0	6.33	4.33
+Water Resource Specialists	2.67	6.67	2.0	1.67	4.33	4.0
+Postmasters and Mail Superintendents	3.0	1.67	1.0	4.33	7.0	5.67
+Property, Real Estate, and Community Association Managers	3.0	1.0	1.33	3.67	7.0	5.67
+Social and Community Service Managers	1.0	1.33	2.67	6.0	6.67	3.33
+Emergency Management Directors	3.67	3.0	2.0	6.33	5.67	3.67
+Regulatory Affairs Managers	1.67	2.0	1.67	3.33	7.0	5.33
+Compliance Managers	3.67	3.67	1.33	1.67	5.33	5.67
+Investment Fund Managers	1.0	1.67	1.0	2.67	7.0	4.67
+Supply Chain Managers	2.67	2.0	1.67	2.33	7.0	4.67
+Security Managers	3.33	3.0	1.33	1.33	7.0	5.0
+Loss Prevention Managers	3.67	2.0	1.0	2.67	7.0	6.0
+Wind Energy Operations Managers	4.0	3.0	1.67	1.33	6.67	5.67
+Wind Energy Project Managers	2.33	4.33	2.33	2.0	7.0	4.67
+Brownfield Redevelopment Specialists and Site Managers	3.0	5.33	2.0	1.67	6.67	4.67
+Agents and Business Managers of Artists, Performers, and Athletes	1.33	1.33	3.0	4.33	7.0	4.67
+Buyers and Purchasing Agents, Farm Products	4.0	1.33	1.67	2.67	6.33	6.0
+Wholesale and Retail Buyers, Except Farm Products	3.33	2.0	1.33	2.33	7.0	5.67
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	3.67	2.67	1.0	2.0	6.33	6.67
+Claims Examiners, Property and Casualty Insurance	2.67	3.33	1.33	2.67	5.33	6.67
+Insurance Adjusters, Examiners, and Investigators	2.67	2.67	1.33	2.67	5.33	6.67
+Insurance Appraisers, Auto Damage	5.67	2.0	1.0	2.33	4.33	6.67
+Environmental Compliance Inspectors	5.0	6.0	2.0	2.0	2.0	6.0
+Licensing Examiners and Inspectors	2.33	1.67	1.0	3.0	6.0	6.0
+Equal Opportunity Representatives and Officers	1.0	3.0	2.33	6.33	6.0	4.33
+Government Property Inspectors and Investigators	3.67	3.0	1.0	2.0	4.33	6.67
+Coroners	5.0	6.67	1.33	2.33	3.67	5.0
+Regulatory Affairs Specialists	1.67	2.0	1.0	1.33	5.67	6.33
+Cost Estimators	3.0	2.67	1.0	1.33	6.0	6.0
+Human Resources Specialists	1.0	2.67	2.67	4.0	6.0	4.67
+Farm Labor Contractors	3.0	1.0	1.0	3.0	7.0	2.33
+Labor Relations Specialists	1.0	3.0	2.33	4.33	6.33	4.67
+Logisticians	2.33	2.33	1.33	3.33	7.0	5.67
+Logistics Engineers	4.33	7.0	2.33	1.0	3.33	5.33
+Logistics Analysts	2.67	3.33	1.33	1.33	4.33	6.0
+Management Analysts	1.33	6.33	1.67	2.33	6.0	4.33
+Meeting, Convention, and Event Planners	1.67	1.33	2.33	4.33	7.0	5.0
+Fundraisers	1.0	2.0	4.67	3.33	6.67	5.0
+Compensation, Benefits, and Job Analysis Specialists	2.33	2.67	1.67	2.67	6.33	6.33
+Training and Development Specialists	1.33	2.33	4.67	6.67	4.0	4.67
+Market Research Analysts and Marketing Specialists	1.33	6.67	1.67	1.33	5.0	4.0
+Energy Auditors	3.33	2.67	1.0	1.33	4.67	7.0
+Security Management Specialists	5.33	5.0	2.33	1.33	2.67	4.67
+Customs Brokers	2.0	1.0	1.33	3.0	6.33	5.67
+Business Continuity Planners	1.0	4.33	2.0	1.67	6.67	4.0
+Sustainability Specialists	1.67	4.33	3.67	2.33	5.67	3.0
+Online Merchants	4.0	1.33	1.67	2.33	7.0	5.67
+Accountants	1.33	3.0	1.0	1.67	4.0	7.0
+Auditors	1.67	3.67	1.0	2.0	5.67	7.0
+Assessors	3.0	3.67	1.0	1.33	5.33	5.67
+Appraisers, Real Estate	3.67	2.0	1.0	2.33	6.0	5.67
+Budget Analysts	1.67	4.0	1.33	2.33	5.67	7.0
+Credit Analysts	2.67	3.0	1.0	3.0	5.33	7.0
+Financial Analysts	2.67	5.67	2.33	1.0	5.0	6.67
+Personal Financial Advisors	1.0	3.0	1.33	3.67	6.67	5.67
+Insurance Underwriters	1.33	3.33	1.0	2.33	4.67	6.33
+Financial Examiners	1.33	3.0	1.33	2.0	6.67	5.67
+Credit Counselors	1.0	2.33	2.0	5.33	5.33	5.33
+Loan Counselors	1.0	2.0	1.67	5.33	6.33	4.33
+Loan Officers	1.0	2.67	1.0	4.0	6.0	6.67
+Tax Examiners and Collectors, and Revenue Agents	2.67	2.0	1.0	3.33	5.67	7.0
+Tax Preparers	1.67	1.33	1.0	2.67	4.67	7.0
+Financial Quantitative Analysts	2.33	6.67	3.67	1.33	3.0	5.67
+Risk Management Specialists	2.67	4.67	1.33	1.33	5.67	7.0
+Investment Underwriters	2.33	3.0	1.0	2.33	6.33	6.67
+Fraud Examiners, Investigators and Analysts	2.33	5.67	1.0	1.33	6.33	3.67
+Computer and Information Research Scientists	5.0	7.0	4.33	1.0	1.67	4.33
+Computer Systems Analysts	4.33	6.33	1.67	2.0	3.33	6.33
+Informatics Nurse Specialists	3.0	5.0	2.0	5.33	2.67	3.33
+Information Security Analysts	4.67	5.33	1.67	2.33	2.33	6.33
+Computer Programmers	3.33	7.0	3.0	2.0	2.0	5.67
+Software Developers, Applications	5.0	6.67	2.33	1.0	2.67	4.67
+Software Developers, Systems Software	4.0	7.0	2.67	2.33	1.67	5.67
+Web Developers	4.33	5.0	4.0	1.0	3.33	5.33
+Database Administrators	3.33	5.33	2.33	2.33	3.67	7.0
+Network and Computer Systems Administrators	5.67	6.0	1.67	2.0	4.0	4.67
+Computer Network Architects	4.0	6.0	2.33	2.0	5.33	6.0
+Telecommunications Engineering Specialists	6.0	3.0	1.33	1.33	5.33	3.67
+Computer User Support Specialists	5.67	5.33	1.67	4.33	2.67	5.33
+Computer Network Support Specialists	6.0	2.67	1.33	1.33	4.0	3.67
+Software Quality Assurance Engineers and Testers	4.33	6.33	2.0	1.0	1.67	6.0
+Computer Systems Engineers/Architects	5.67	6.33	2.67	1.0	1.67	4.33
+Web Administrators	4.0	4.33	2.0	1.0	4.67	6.33
+Geospatial Information Scientists and Technologists	5.33	7.0	2.33	1.0	2.0	5.0
+Geographic Information Systems Technicians	5.0	5.67	1.67	1.33	2.0	4.33
+Database Architects	2.67	5.33	2.67	1.67	3.67	4.0
+Data Warehousing Specialists	1.67	5.67	2.0	1.67	3.0	4.67
+Business Intelligence Analysts	1.67	5.67	2.33	1.67	5.33	4.0
+Information Technology Project Managers	1.67	3.0	2.0	2.0	6.67	3.33
+Search Marketing Strategists	1.33	4.33	2.67	1.67	5.33	3.67
+Video Game Designers	2.0	3.0	6.0	1.67	4.67	3.33
+Document Management Specialists	2.0	3.0	2.0	2.33	2.67	7.0
+Actuaries	2.0	4.33	1.67	1.0	3.33	6.0
+Mathematicians	1.67	7.0	4.0	1.0	1.67	4.67
+Operations Research Analysts	3.0	6.33	2.67	1.67	4.67	5.33
+Statisticians	2.33	6.0	2.0	1.0	2.0	6.33
+Biostatisticians	3.0	6.67	2.0	1.67	1.0	5.33
+Clinical Data Managers	2.67	5.33	1.33	2.33	3.0	7.0
+Mathematical Technicians	5.67	6.33	2.33	1.33	1.33	5.33
+Architects, Except Landscape and Naval	4.0	5.0	6.67	1.67	4.0	2.33
+Landscape Architects	5.0	5.33	6.33	1.67	4.0	2.33
+Cartographers and Photogrammetrists	5.67	5.33	3.33	1.0	2.0	5.33
+Surveyors	6.67	5.0	3.33	1.33	2.0	5.0
+Geodetic Surveyors	4.33	5.0	1.33	1.0	1.67	5.0
+Aerospace Engineers	5.67	7.0	3.67	1.33	2.33	3.0
+Agricultural Engineers	6.33	6.67	3.0	1.33	4.33	3.0
+Biomedical Engineers	5.67	7.0	2.67	2.0	2.33	3.67
+Chemical Engineers	6.33	6.67	2.0	1.0	3.0	3.67
+Civil Engineers	6.67	6.0	2.67	1.33	2.67	4.33
+Transportation Engineers	6.67	6.0	2.0	1.33	3.33	3.67
+Computer Hardware Engineers	6.33	6.67	2.0	1.0	2.33	4.33
+Electrical Engineers	6.0	6.33	2.0	1.0	3.0	3.67
+Electronics Engineers, Except Computer	5.67	7.0	4.0	2.0	2.67	3.67
+Radio Frequency Identification Device Specialists	6.33	5.33	2.0	1.0	2.33	3.67
+Environmental Engineers	4.67	7.0	3.0	1.67	3.67	4.33
+Water/Wastewater Engineers	5.67	6.33	2.33	1.67	4.0	3.33
+Industrial Safety and Health Engineers	5.0	6.33	1.67	2.67	3.0	5.33
+Fire-Prevention and Protection Engineers	5.33	6.67	2.0	2.33	4.67	4.0
+Product Safety Engineers	5.67	6.0	1.0	1.33	3.33	4.67
+Industrial Engineers	4.33	7.0	2.0	1.33	4.67	4.67
+Human Factors Engineers and Ergonomists	5.33	6.0	2.33	2.67	3.0	3.0
+Marine Engineers	6.0	6.67	2.67	1.0	3.67	3.67
+Marine Architects	5.33	7.0	5.33	1.33	2.0	3.0
+Materials Engineers	6.0	7.0	2.67	1.33	4.33	3.33
+Mechanical Engineers	6.33	6.67	2.67	2.0	1.67	4.0
+Fuel Cell Engineers	6.0	5.67	2.0	1.67	3.33	3.0
+Automotive Engineers	7.0	6.0	2.33	1.33	3.67	3.33
+Mining and Geological Engineers, Including Mining Safety Engineers	5.67	6.33	1.67	1.33	4.33	3.67
+Nuclear Engineers	5.33	7.0	1.67	1.0	2.33	3.67
+Petroleum Engineers	5.33	6.67	1.67	1.0	3.33	5.0
+Biochemical Engineers	6.0	6.67	2.33	1.33	2.67	3.67
+Validation Engineers	5.33	6.0	2.33	1.33	2.67	4.33
+Energy Engineers	6.0	7.0	3.0	1.0	1.67	3.33
+Manufacturing Engineers	6.67	6.0	2.0	1.0	3.33	3.67
+Mechatronics Engineers	5.33	7.0	3.67	1.0	1.67	4.0
+Microsystems Engineers	6.0	7.0	2.33	1.0	1.67	4.0
+Photonics Engineers	5.33	7.0	4.0	1.33	1.67	4.0
+Robotics Engineers	6.0	6.67	2.67	1.0	1.67	4.0
+Nanosystems Engineers	5.0	6.67	2.67	1.33	4.67	3.0
+Wind Energy Engineers	6.0	4.33	2.0	1.33	4.0	3.33
+Solar Energy Systems Engineers	6.33	5.67	2.0	1.33	3.33	3.33
+Architectural Drafters	5.33	4.67	5.67	1.33	2.33	4.33
+Civil Drafters	6.33	4.0	3.67	1.33	2.0	6.0
+Electronic Drafters	5.33	4.33	4.0	1.67	1.67	6.0
+Electrical Drafters	6.0	4.67	3.33	1.33	2.0	4.67
+Mechanical Drafters	6.67	4.0	3.33	1.0	2.33	4.0
+Aerospace Engineering and Operations Technicians	6.67	6.0	1.67	1.33	2.33	5.0
+Civil Engineering Technicians	6.0	5.0	2.67	1.0	2.33	5.33
+Electronics Engineering Technicians	6.67	5.67	2.0	1.0	2.67	3.67
+Electrical Engineering Technicians	7.0	6.0	2.33	1.0	2.33	4.33
+Electro-Mechanical Technicians	7.0	5.33	2.33	1.33	1.33	5.0
+Robotics Technicians	6.67	4.33	2.0	1.0	1.67	3.0
+Environmental Engineering Technicians	7.0	5.67	1.67	1.0	2.0	5.33
+Industrial Engineering Technicians	5.0	6.33	1.67	1.33	3.33	5.0
+Mechanical Engineering Technicians	6.0	6.0	3.33	1.0	1.67	3.67
+Automotive Engineering Technicians	6.67	3.67	1.33	1.33	2.67	3.67
+Non-Destructive Testing Specialists	6.67	6.33	1.67	1.0	2.67	4.33
+Electrical Engineering Technologists	6.67	5.33	2.0	1.33	2.67	4.0
+Electromechanical Engineering Technologists	6.0	6.0	3.0	1.0	2.33	4.33
+Electronics Engineering Technologists	6.33	6.0	1.67	1.0	2.33	4.0
+Industrial Engineering Technologists	5.33	6.0	2.67	1.0	2.0	5.33
+Manufacturing Engineering Technologists	6.33	5.67	2.0	1.0	2.67	4.67
+Mechanical Engineering Technologists	6.67	5.0	1.67	1.33	2.67	3.67
+Photonics Technicians	7.0	5.33	2.33	1.0	1.33	4.0
+Manufacturing Production Technicians	7.0	3.33	1.33	1.33	2.0	3.0
+Fuel Cell Technicians	7.0	3.33	1.33	1.33	3.0	4.33
+Nanotechnology Engineering Technologists	6.0	4.67	1.67	1.33	2.0	4.33
+Nanotechnology Engineering Technicians	6.0	3.33	1.33	1.33	2.0	4.33
+Surveying Technicians	5.67	3.33	2.0	1.0	2.0	5.67
+Mapping Technicians	4.33	3.0	1.67	1.0	1.67	6.67
+Animal Scientists	5.33	7.0	2.33	1.0	2.0	3.0
+Food Scientists and Technologists	5.33	7.0	3.0	1.33	2.33	4.33
+Soil and Plant Scientists	5.67	7.0	3.67	3.0	1.67	3.0
+Biologists	4.0	7.0	1.67	1.33	3.0	3.33
+Biochemists and Biophysicists	4.67	7.0	5.0	1.33	1.67	3.33
+Microbiologists	4.67	7.0	1.33	1.67	2.0	3.0
+Zoologists and Wildlife Biologists	5.33	7.0	2.33	1.67	2.67	3.0
+Bioinformatics Scientists	4.33	7.0	3.0	1.67	1.0	5.0
+Molecular and Cellular Biologists	5.33	7.0	4.67	1.33	1.0	3.0
+Geneticists	4.33	7.0	4.33	2.0	1.33	3.0
+Soil and Water Conservationists	5.33	5.33	2.0	2.0	5.33	2.67
+Range Managers	6.0	6.0	1.33	1.67	4.67	3.67
+Park Naturalists	4.67	3.67	4.33	7.0	3.67	1.67
+Foresters	6.67	5.67	1.33	2.33	4.0	3.0
+Epidemiologists	3.67	7.0	1.67	4.0	3.0	3.33
+Medical Scientists, Except Epidemiologists	4.33	7.0	4.33	4.0	1.67	2.33
+Astronomers	4.67	7.0	5.0	2.67	1.67	2.67
+Physicists	4.0	7.0	3.33	1.0	2.0	3.0
+Atmospheric and Space Scientists	4.33	6.67	2.33	3.67	3.0	3.67
+Chemists	4.0	7.0	2.0	1.0	2.0	3.33
+Materials Scientists	5.0	7.0	2.67	1.33	3.67	3.33
+Environmental Scientists and Specialists, Including Health	5.33	7.0	3.33	1.67	1.67	4.0
+Climate Change Analysts	2.0	6.0	2.67	2.0	4.67	3.0
+Environmental Restoration Planners	6.0	6.0	2.33	2.0	5.33	2.33
+Industrial Ecologists	2.33	6.67	2.33	1.67	4.0	2.67
+Geoscientists, Except Hydrologists and Geographers	5.0	7.0	3.0	1.33	2.33	3.33
+Hydrologists	5.33	7.0	3.0	1.33	2.67	3.0
+Remote Sensing Scientists and Technologists	6.33	6.0	2.33	1.0	1.67	3.33
+Economists	2.33	7.0	2.67	1.67	4.0	4.67
+Environmental Economists	1.33	7.0	2.0	2.0	3.67	3.33
+Survey Researchers	1.0	6.67	2.0	1.33	4.67	5.0
+School Psychologists	1.33	7.0	3.67	6.0	1.67	3.67
+Clinical Psychologists	1.67	6.67	5.0	6.0	2.67	1.67
+Counseling Psychologists	1.33	6.0	4.33	6.33	2.67	2.33
+Industrial-Organizational Psychologists	1.0	6.33	4.0	4.0	5.33	2.67
+Neuropsychologists and Clinical Neuropsychologists	2.67	7.0	4.33	5.0	1.0	2.0
+Sociologists	1.67	7.0	5.33	4.67	1.67	2.67
+Urban and Regional Planners	3.0	6.67	4.0	2.0	4.67	3.0
+Anthropologists	2.67	6.67	5.33	3.67	2.33	3.33
+Archeologists	5.33	7.0	4.67	2.0	2.33	3.67
+Geographers	4.67	7.0	4.0	2.67	1.0	3.33
+Historians	1.0	6.67	2.67	2.67	2.67	3.0
+Political Scientists	1.67	7.0	5.33	4.33	2.33	2.0
+Transportation Planners	3.67	6.33	2.67	1.67	2.33	4.0
+Agricultural Technicians	6.33	5.0	1.0	1.33	2.33	4.33
+Food Science Technicians	5.67	5.0	1.67	1.0	1.67	5.0
+Biological Technicians	6.33	5.0	1.33	1.67	2.33	4.67
+Chemical Technicians	5.67	6.0	1.33	1.0	2.0	4.0
+Geophysical Data Technicians	5.67	5.0	1.33	1.33	2.67	6.67
+Geological Sample Test Technicians	6.0	5.67	1.0	1.0	1.67	3.67
+Nuclear Equipment Operation Technicians	7.0	5.0	1.67	1.33	2.0	5.33
+Nuclear Monitoring Technicians	6.33	4.67	1.33	1.33	3.33	5.33
+Social Science Research Assistants	1.67	5.0	2.33	2.67	2.0	6.33
+City and Regional Planning Aides	4.0	3.67	1.67	3.0	3.67	7.0
+Environmental Science and Protection Technicians, Including Health	5.33	6.0	1.33	1.33	2.33	3.67
+Forensic Science Technicians	5.33	6.67	2.33	1.33	1.33	5.0
+Forest and Conservation Technicians	5.33	4.0	2.67	3.33	4.0	3.0
+Quality Control Analysts	4.67	5.33	1.33	1.0	2.67	6.33
+Precision Agriculture Technicians	6.0	5.67	1.67	1.0	2.67	4.67
+Remote Sensing Technicians	6.67	5.67	1.67	2.0	2.0	4.67
+Substance Abuse and Behavioral Disorder Counselors	1.33	4.0	4.33	7.0	3.0	2.0
+Educational, Guidance, School, and Vocational Counselors	1.0	3.33	3.67	7.0	3.67	3.33
+Marriage and Family Therapists	1.0	4.0	4.33	7.0	2.67	2.33
+Mental Health Counselors	1.33	4.67	4.0	7.0	2.33	2.33
+Rehabilitation Counselors	1.0	4.0	3.67	7.0	3.33	3.33
+Child, Family, and School Social Workers	1.0	3.33	3.67	7.0	4.33	3.0
+Healthcare Social Workers	1.0	4.0	3.33	7.0	3.33	3.0
+Mental Health and Substance Abuse Social Workers	1.0	4.67	4.33	7.0	2.67	3.0
+Health Educators	1.67	3.33	3.33	7.0	4.33	2.67
+Probation Officers and Correctional Treatment Specialists	1.33	2.33	2.33	6.67	5.0	4.67
+Social and Human Service Assistants	1.67	2.0	1.67	6.0	4.33	6.33
+Community Health Workers	2.0	3.33	2.67	7.0	3.33	3.0
+Clergy	1.0	2.0	4.67	7.0	4.67	2.67
+Directors, Religious Activities and Education	1.33	1.0	2.67	6.0	7.0	4.0
+Lawyers	1.33	4.67	4.0	3.33	7.0	3.67
+Judicial Law Clerks	1.0	4.0	2.0	2.0	5.33	5.67
+Administrative Law Judges, Adjudicators, and Hearing Officers	1.0	5.0	3.0	4.0	6.67	3.33
+Arbitrators, Mediators, and Conciliators	1.0	2.67	3.33	6.67	6.33	4.0
+Judges, Magistrate Judges, and Magistrates	1.33	3.67	2.0	5.67	7.0	4.0
+Paralegals and Legal Assistants	1.0	5.0	1.67	2.0	4.33	5.67
+Court Reporters	1.33	1.67	2.33	2.67	3.33	6.33
+Title Examiners, Abstractors, and Searchers	4.0	2.33	1.0	2.0	5.0	7.0
+Business Teachers, Postsecondary	1.0	4.0	3.33	7.0	4.33	3.67
+Computer Science Teachers, Postsecondary	3.0	5.67	3.33	6.67	1.67	5.0
+Mathematical Science Teachers, Postsecondary	1.33	5.67	4.0	6.33	1.67	4.0
+Architecture Teachers, Postsecondary	3.33	3.0	5.33	7.0	2.33	2.67
+Engineering Teachers, Postsecondary	4.33	5.67	3.0	6.67	2.67	3.0
+Agricultural Sciences Teachers, Postsecondary	4.67	6.0	3.33	6.67	2.33	3.0
+Biological Science Teachers, Postsecondary	3.33	6.33	3.67	6.67	2.33	2.33
+Forestry and Conservation Science Teachers, Postsecondary	4.33	6.0	3.33	6.33	2.33	2.67
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	3.33	6.33	4.0	6.67	3.0	2.0
+Chemistry Teachers, Postsecondary	4.67	6.33	3.67	6.67	2.67	2.33
+Environmental Science Teachers, Postsecondary	3.0	6.0	4.33	7.0	2.67	1.67
+Physics Teachers, Postsecondary	3.67	6.0	3.33	6.33	2.67	2.33
+Anthropology and Archeology Teachers, Postsecondary	2.33	5.33	3.67	7.0	2.67	2.67
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	1.67	6.0	4.33	6.67	2.33	2.33
+Economics Teachers, Postsecondary	1.0	5.33	3.67	7.0	3.33	3.0
+Geography Teachers, Postsecondary	2.67	6.0	4.33	7.0	2.0	3.67
+Political Science Teachers, Postsecondary	1.0	3.33	4.0	7.0	4.67	3.0
+Psychology Teachers, Postsecondary	1.33	6.33	4.33	6.67	3.0	3.0
+Sociology Teachers, Postsecondary	1.0	5.0	4.0	7.0	2.33	2.67
+Health Specialties Teachers, Postsecondary	1.67	6.0	3.67	6.67	2.33	2.67
+Nursing Instructors and Teachers, Postsecondary	2.33	5.67	3.67	7.0	2.33	2.0
+Education Teachers, Postsecondary	1.33	4.0	4.33	7.0	3.0	2.67
+Library Science Teachers, Postsecondary	1.67	5.67	4.0	6.67	2.0	4.33
+Criminal Justice and Law Enforcement Teachers, Postsecondary	2.67	5.67	3.0	6.67	3.0	1.67
+Law Teachers, Postsecondary	1.0	5.67	3.67	6.67	5.0	2.67
+Social Work Teachers, Postsecondary	1.33	5.67	4.0	7.0	3.0	3.0
+Art, Drama, and Music Teachers, Postsecondary	3.33	3.67	6.33	6.67	2.67	2.67
+Communications Teachers, Postsecondary	1.0	4.0	4.67	7.0	3.67	3.33
+English Language and Literature Teachers, Postsecondary	1.33	4.33	5.67	6.33	2.0	2.67
+Foreign Language and Literature Teachers, Postsecondary	1.33	5.33	5.33	7.0	3.0	2.67
+History Teachers, Postsecondary	2.0	5.33	4.0	6.67	2.0	3.33
+Philosophy and Religion Teachers, Postsecondary	1.0	4.33	5.0	7.0	2.67	2.33
+Graduate Teaching Assistants	1.33	2.0	3.33	6.33	3.0	4.0
+Home Economics Teachers, Postsecondary	1.67	5.0	4.33	6.67	2.67	2.67
+Recreation and Fitness Studies Teachers, Postsecondary	4.0	3.67	4.0	6.67	2.67	2.67
+Vocational Education Teachers, Postsecondary	5.33	2.67	2.67	7.0	3.33	2.33
+Preschool Teachers, Except Special Education	2.0	2.67	5.67	7.0	3.33	2.0
+Kindergarten Teachers, Except Special Education	1.67	2.33	4.67	7.0	3.33	2.67
+Elementary School Teachers, Except Special Education	1.33	3.67	4.33	7.0	2.33	4.0
+Middle School Teachers, Except Special and Career/Technical Education	2.33	3.33	5.0	7.0	3.33	3.0
+Career/Technical Education Teachers, Middle School	1.33	4.33	5.33	7.0	2.67	4.33
+Secondary School Teachers, Except Special and Career/Technical Education	1.67	2.67	4.67	7.0	4.0	3.0
+Career/Technical Education Teachers, Secondary School	3.33	3.67	3.67	7.0	3.67	2.67
+Special Education Teachers, Preschool	1.0	2.67	4.0	7.0	1.67	3.33
+Special Education Teachers, Kindergarten and Elementary School	1.0	3.0	4.0	7.0	2.0	3.33
+Special Education Teachers, Middle School	2.33	3.33	5.0	7.0	3.33	2.67
+Special Education Teachers, Secondary School	1.67	4.33	4.0	7.0	3.67	3.33
+Adapted Physical Education Specialists	4.0	2.33	2.0	7.0	3.0	2.67
+Adult Basic and Secondary Education and Literacy Teachers and Instructors	2.0	2.33	4.67	7.0	4.0	2.67
+Self-Enrichment Education Teachers	1.67	2.67	5.33	7.0	4.0	2.0
+Tutors	1.33	5.0	3.0	6.67	1.67	3.0
+Archivists	3.0	5.33	1.67	3.33	2.33	6.67
+Curators	2.33	4.0	4.0	3.33	6.33	5.67
+Museum Technicians and Conservators	7.0	3.67	4.0	1.67	3.0	3.67
+Librarians	2.33	3.33	2.67	5.33	4.67	7.0
+Library Technicians	2.33	1.33	1.67	5.0	3.67	7.0
+Audio-Visual and Multimedia Collections Specialists	5.33	3.0	2.0	4.67	2.0	5.33
+Farm and Home Management Advisors	5.33	4.33	2.33	7.0	4.67	2.33
+Instructional Coordinators	2.0	5.0	4.33	6.67	4.33	3.0
+Instructional Designers and Technologists	3.0	4.0	4.0	4.33	5.33	3.33
+Teacher Assistants	1.0	2.67	3.67	7.0	3.0	5.33
+Art Directors	3.0	1.33	7.0	2.33	6.33	3.0
+Craft Artists	5.67	2.0	7.0	1.67	5.33	1.33
+Fine Artists, Including Painters, Sculptors, and Illustrators	5.0	2.67	7.0	2.0	3.33	1.0
+Multimedia Artists and Animators	3.0	4.0	7.0	1.33	1.67	3.0
+Commercial and Industrial Designers	4.0	2.0	6.67	2.0	4.67	1.67
+Fashion Designers	4.0	1.67	7.0	2.33	6.0	1.33
+Floral Designers	4.33	1.0	6.33	2.33	5.0	2.67
+Graphic Designers	4.33	1.67	7.0	2.0	4.33	2.33
+Interior Designers	3.0	1.67	6.67	3.0	5.33	1.33
+Merchandise Displayers and Window Trimmers	5.0	1.67	6.0	1.67	5.33	2.0
+Set and Exhibit Designers	5.0	3.0	7.0	2.0	3.33	2.33
+Actors	2.67	1.33	6.67	3.0	4.67	1.67
+Producers	1.33	1.0	5.67	3.0	6.67	3.33
+Directors- Stage, Motion Pictures, Television, and Radio	2.0	1.67	6.33	3.67	6.67	3.33
+Program Directors	1.33	1.67	4.33	2.67	7.0	5.0
+Talent Directors	1.67	1.33	5.67	3.33	7.0	3.67
+Technical Directors/Managers	4.0	2.0	4.0	1.67	7.0	4.0
+Athletes and Sports Competitors	6.33	1.0	1.67	3.0	4.67	2.33
+Coaches and Scouts	5.67	1.33	2.0	6.0	5.67	3.33
+Umpires, Referees, and Other Sports Officials	6.0	1.67	1.33	3.0	6.0	4.33
+Dancers	5.33	1.67	7.0	3.33	3.0	1.0
+Choreographers	2.67	1.67	7.0	5.0	4.67	1.67
+Music Directors	2.67	2.33	7.0	4.67	5.67	2.0
+Music Composers and Arrangers	2.33	2.0	6.67	2.0	3.67	2.67
+Singers	1.67	1.0	7.0	2.67	4.33	1.0
+Musicians, Instrumental	2.67	1.33	6.67	2.0	4.0	1.0
+Radio and Television Announcers	1.0	2.0	5.67	4.67	5.33	2.0
+Public Address System and Other Announcers	1.67	1.0	4.0	6.0	5.67	2.0
+Broadcast News Analysts	1.33	4.0	6.33	5.0	4.67	2.33
+Reporters and Correspondents	1.67	4.0	6.33	2.67	4.33	3.0
+Public Relations Specialists	1.0	2.0	5.0	4.67	7.0	3.0
+Editors	1.33	2.0	6.33	2.0	6.0	4.0
+Technical Writers	1.33	4.33	6.33	1.33	2.67	3.67
+Copy Writers	1.67	3.0	6.33	2.33	6.67	3.0
+Poets, Lyricists and Creative Writers	1.67	5.0	7.0	2.33	3.67	2.0
+Interpreters and Translators	1.33	3.33	6.0	5.33	2.0	3.67
+Audio and Video Equipment Technicians	7.0	5.0	3.33	1.0	1.67	4.67
+Broadcast Technicians	7.0	4.33	1.67	1.67	2.0	5.33
+Radio Operators	6.33	2.0	1.33	1.0	2.0	4.33
+Sound Engineering Technicians	6.67	2.67	5.0	1.0	3.33	3.67
+Photographers	4.67	2.0	6.0	2.33	3.33	1.33
+Camera Operators, Television, Video, and Motion Picture	6.33	2.67	6.0	2.33	2.33	3.67
+Film and Video Editors	2.67	3.67	6.67	1.67	3.67	2.33
+Chiropractors	5.33	5.67	2.0	6.0	2.67	2.0
+Dentists, General	5.33	7.0	1.67	4.0	2.33	3.0
+Oral and Maxillofacial Surgeons	6.0	5.0	1.67	5.67	3.0	2.67
+Orthodontists	5.33	7.0	1.67	4.67	3.33	2.33
+Prosthodontists	6.0	7.0	2.33	4.0	1.33	3.0
+Dietitians and Nutritionists	2.33	6.67	2.33	6.33	4.0	2.0
+Optometrists	5.0	6.0	1.0	5.33	3.33	2.67
+Pharmacists	3.33	7.0	1.33	4.33	2.67	5.33
+Anesthesiologists	5.0	5.33	2.0	5.0	2.67	2.67
+Family and General Practitioners	4.0	6.67	2.0	6.0	2.67	2.67
+Internists, General	4.33	6.67	2.0	5.33	3.67	2.67
+Obstetricians and Gynecologists	5.0	7.0	2.0	6.0	3.67	2.0
+Pediatricians, General	3.33	7.0	2.67	6.0	2.33	3.0
+Psychiatrists	2.0	7.0	4.33	5.67	2.0	2.67
+Surgeons	5.67	6.33	2.33	5.0	3.0	2.67
+Allergists and Immunologists	4.67	7.0	3.0	5.67	1.33	1.67
+Dermatologists	4.33	7.0	2.33	6.0	2.0	1.67
+Hospitalists	3.67	5.0	1.67	6.33	3.0	2.33
+Neurologists	4.33	7.0	2.33	5.67	3.0	2.0
+Nuclear Medicine Physicians	3.33	5.67	1.33	5.67	2.33	2.67
+Ophthalmologists	5.0	7.0	2.0	5.33	2.33	3.0
+Pathologists	4.33	6.67	1.67	3.0	1.0	3.33
+Physical Medicine and Rehabilitation Physicians	4.0	7.0	3.0	5.67	1.67	2.0
+Preventive Medicine Physicians	4.33	6.33	2.67	6.67	2.33	1.67
+Radiologists	6.0	6.67	1.67	4.67	1.0	3.0
+Sports Medicine Physicians	4.67	6.67	2.33	6.0	1.33	2.0
+Urologists	4.67	7.0	2.33	5.33	2.67	2.33
+Physician Assistants	4.0	6.33	2.0	6.33	1.67	2.67
+Anesthesiologist Assistants	5.33	4.67	1.0	5.0	2.67	2.67
+Podiatrists	4.33	7.0	2.0	6.0	2.67	2.0
+Occupational Therapists	3.0	4.33	3.33	7.0	3.0	3.67
+Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists	4.33	4.67	3.0	7.0	3.0	2.67
+Physical Therapists	4.33	5.67	2.33	7.0	2.67	3.0
+Radiation Therapists	5.33	3.67	1.0	5.67	1.67	5.0
+Recreational Therapists	1.67	3.67	4.67	7.0	3.33	2.33
+Art Therapists	1.33	4.0	6.67	7.0	1.67	2.67
+Music Therapists	1.33	4.33	6.33	6.33	1.67	2.0
+Respiratory Therapists	4.33	5.0	1.33	6.67	2.33	2.67
+Speech-Language Pathologists	1.67	6.0	4.33	6.67	2.0	2.33
+Exercise Physiologists	4.0	5.33	3.67	6.33	3.33	2.67
+Veterinarians	5.67	7.0	2.0	3.67	1.67	2.67
+Registered Nurses	3.67	5.67	1.67	7.0	2.0	4.67
+Acute Care Nurses	4.33	5.33	2.0	7.0	2.33	1.67
+Advanced Practice Psychiatric Nurses	2.33	6.0	3.67	6.67	2.0	2.33
+Critical Care Nurses	4.0	4.33	2.67	6.67	3.0	2.67
+Clinical Nurse Specialists	2.0	4.0	1.0	5.67	6.67	4.33
+Nurse Anesthetists	5.0	6.67	1.67	4.33	1.33	2.67
+Nurse Midwives	3.33	4.0	2.33	7.0	3.0	1.33
+Nurse Practitioners	4.33	6.0	2.67	6.33	2.33	2.67
+Audiologists	2.67	6.67	2.33	6.33	1.67	3.67
+Acupuncturists	5.33	5.0	2.33	6.0	2.0	1.67
+Naturopathic Physicians	3.33	6.67	4.0	6.33	1.67	1.67
+Orthoptists	4.33	6.33	1.67	5.33	2.67	1.67
+Medical and Clinical Laboratory Technologists	5.67	7.0	1.67	2.0	2.67	4.67
+Cytogenetic Technologists	5.33	6.33	2.33	2.33	2.0	4.33
+Cytotechnologists	5.0	6.67	1.67	1.67	1.67	3.33
+Histotechnologists and Histologic Technicians	7.0	5.33	1.33	1.33	1.67	4.67
+Medical and Clinical Laboratory Technicians	5.67	5.67	1.67	4.0	1.67	4.33
+Dental Hygienists	5.67	3.0	1.0	6.0	2.0	3.67
+Cardiovascular Technologists and Technicians	5.33	5.33	1.33	5.33	2.33	3.67
+Diagnostic Medical Sonographers	5.33	6.0	1.67	5.67	2.67	3.33
+Nuclear Medicine Technologists	6.0	6.33	1.33	4.0	1.67	3.67
+Radiologic Technologists	6.67	3.67	1.33	5.0	3.0	3.0
+Magnetic Resonance Imaging Technologists	5.0	3.33	1.67	3.67	2.33	4.33
+Emergency Medical Technicians and Paramedics	4.33	4.67	1.33	6.33	4.0	2.67
+Dietetic Technicians	4.0	4.33	1.67	6.33	2.67	2.33
+Pharmacy Technicians	5.0	3.0	1.0	3.67	2.67	7.0
+Psychiatric Technicians	3.67	3.0	1.67	6.67	3.67	2.67
+Respiratory Therapy Technicians	4.67	4.67	1.67	7.0	1.33	4.33
+Surgical Technologists	6.0	2.33	1.0	5.0	2.33	4.0
+Veterinary Technologists and Technicians	7.0	6.0	1.67	3.0	2.33	3.67
+Ophthalmic Medical Technicians	3.67	2.67	1.33	4.33	2.33	5.0
+Licensed Practical and Licensed Vocational Nurses	5.0	3.33	1.33	7.0	2.33	3.67
+Medical Records and Health Information Technicians	2.0	1.0	1.0	2.33	3.67	7.0
+Opticians, Dispensing	4.33	1.67	1.67	4.33	6.33	5.33
+Orthotists and Prosthetists	5.0	4.67	2.33	7.0	2.0	2.0
+Hearing Aid Specialists	4.0	6.0	1.67	6.0	3.0	2.67
+Neurodiagnostic Technologists	6.33	5.0	1.33	3.33	2.67	3.67
+Ophthalmic Medical Technologists	4.0	4.0	1.33	3.33	3.67	4.33
+Radiologic Technicians	6.33	3.0	1.33	3.67	3.0	4.0
+Surgical Assistants	4.0	3.33	1.33	5.0	1.67	6.33
+Occupational Health and Safety Specialists	4.0	6.67	1.33	4.0	2.67	5.33
+Occupational Health and Safety Technicians	5.0	4.0	1.33	3.33	3.0	7.0
+Athletic Trainers	5.33	4.33	2.0	6.67	3.0	1.67
+Genetic Counselors	1.0	6.33	4.0	6.67	2.33	2.67
+Midwives	3.67	2.67	2.0	7.0	2.67	1.33
+Home Health Aides	5.0	2.0	2.0	7.0	2.33	2.67
+Psychiatric Aides	4.67	2.33	2.33	7.0	2.0	4.67
+Nursing Assistants	4.33	1.67	1.33	6.67	1.67	5.67
+Orderlies	5.33	1.0	1.0	3.33	1.33	6.33
+Occupational Therapy Assistants	4.33	3.33	3.0	7.0	1.67	2.67
+Occupational Therapy Aides	4.67	2.0	2.0	7.0	2.0	3.33
+Physical Therapist Assistants	5.33	4.0	1.67	6.67	2.33	2.67
+Physical Therapist Aides	5.67	1.67	1.33	6.67	2.33	2.67
+Massage Therapists	5.67	3.67	1.67	6.33	2.33	3.0
+Dental Assistants	5.67	3.33	1.33	4.67	2.67	6.0
+Medical Assistants	4.33	3.0	1.33	6.33	2.33	6.33
+Medical Equipment Preparers	6.33	3.67	1.0	2.0	2.0	6.0
+Medical Transcriptionists	4.0	3.33	2.33	2.0	2.67	7.0
+Pharmacy Aides	4.67	2.67	1.0	3.33	3.33	7.0
+Veterinary Assistants and Laboratory Animal Caretakers	6.67	4.0	2.0	4.33	2.0	2.67
+Phlebotomists	5.0	4.0	1.0	4.0	2.0	5.67
+Speech-Language Pathology Assistants	3.0	3.0	2.0	6.33	2.67	5.67
+Endoscopy Technicians	6.67	4.67	1.0	2.33	1.67	4.33
+First-Line Supervisors of Correctional Officers	4.67	2.0	1.0	4.0	7.0	5.0
+First-Line Supervisors of Police and Detectives	3.67	2.33	1.33	4.67	7.0	4.33
+Municipal Fire Fighting and Prevention Supervisors	5.67	2.67	1.33	5.33	7.0	3.0
+Forest Fire Fighting and Prevention Supervisors	5.67	3.0	1.0	2.67	7.0	4.0
+Municipal Firefighters	7.0	2.33	1.33	5.33	3.67	1.33
+Forest Firefighters	7.0	3.67	1.0	4.33	3.0	3.0
+Fire Inspectors	6.0	3.33	1.33	3.67	3.67	6.33
+Fire Investigators	6.0	6.0	1.33	3.33	3.67	4.67
+Forest Fire Inspectors and Prevention Specialists	6.33	3.0	1.0	2.33	4.67	5.67
+Bailiffs	6.33	1.67	1.0	2.67	4.67	4.67
+Correctional Officers and Jailers	6.67	2.0	1.0	2.67	5.0	4.67
+Police Detectives	3.67	5.67	1.33	3.33	5.67	3.67
+Police Identification and Records Officers	5.67	4.0	1.33	2.0	3.0	6.33
+Criminal Investigators and Special Agents	3.67	5.33	1.33	2.67	6.67	3.67
+Immigration and Customs Inspectors	4.67	2.0	1.0	2.33	5.33	6.33
+Intelligence Analysts	3.0	6.33	2.33	2.33	4.67	4.67
+Fish and Game Wardens	7.0	5.0	1.67	3.67	2.0	3.0
+Parking Enforcement Workers	7.0	1.33	1.0	2.67	3.33	5.0
+Police Patrol Officers	5.67	2.0	1.0	4.0	5.33	4.33
+Sheriffs and Deputy Sheriffs	6.0	2.0	1.33	5.33	6.67	3.0
+Transit and Railroad Police	6.67	2.67	1.0	2.0	4.67	4.33
+Animal Control Workers	6.67	3.33	1.33	4.0	2.0	4.0
+Private Detectives and Investigators	3.67	3.0	1.33	3.33	6.67	5.0
+Gaming Surveillance Officers and Gaming Investigators	6.33	2.0	1.33	1.67	4.33	5.67
+Security Guards	7.0	2.33	1.33	3.33	4.33	5.33
+Crossing Guards	4.0	1.0	1.33	5.67	5.33	2.0
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	6.33	2.67	1.0	6.0	3.0	2.67
+Transportation Security Screeners	5.67	1.67	1.0	2.67	5.67	4.33
+Retail Loss Prevention Specialists	3.33	3.33	1.67	1.67	6.0	6.0
+Chefs and Head Cooks	5.67	1.33	4.67	3.33	7.0	2.67
+First-Line Supervisors of Food Preparation and Serving Workers	4.33	1.33	1.67	3.67	7.0	6.0
+Cooks, Fast Food	6.67	1.67	1.0	2.67	3.0	5.67
+Cooks, Institution and Cafeteria	6.0	1.0	2.67	3.67	3.67	5.67
+Cooks, Private Household	4.67	2.0	6.33	2.67	3.67	4.0
+Cooks, Restaurant	6.67	1.33	3.33	2.33	4.0	3.33
+Cooks, Short Order	6.67	1.0	2.0	2.67	3.0	5.67
+Food Preparation Workers	6.67	1.67	1.33	2.67	2.67	6.0
+Bartenders	4.33	1.33	2.0	3.67	5.67	5.67
+Combined Food Preparation and Serving Workers, Including Fast Food	5.67	1.0	1.33	3.33	4.0	6.67
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	5.67	1.0	1.33	5.33	3.67	2.0
+Baristas	4.67	1.0	3.33	3.67	4.67	4.67
+Waiters and Waitresses	4.33	1.0	2.33	5.67	5.33	5.0
+Food Servers, Nonrestaurant	4.33	1.0	1.33	6.33	4.0	2.67
+Dining Room and Cafeteria Attendants and Bartender Helpers	7.0	1.33	1.0	3.67	2.67	4.67
+Dishwashers	7.0	1.33	1.0	1.33	2.33	4.0
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	3.0	1.0	1.33	4.33	6.0	3.0
+First-Line Supervisors of Housekeeping and Janitorial Workers	5.0	1.33	1.33	2.67	7.0	5.33
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	5.67	2.0	1.33	2.67	7.0	5.0
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	6.67	1.0	1.0	1.33	2.67	3.67
+Maids and Housekeeping Cleaners	6.67	1.33	1.0	3.0	2.33	5.0
+Pest Control Workers	7.0	2.0	1.33	2.0	3.0	4.0
+Landscaping and Groundskeeping Workers	7.0	3.0	3.0	1.33	2.67	4.33
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	6.67	2.67	1.0	1.0	2.33	3.67
+Tree Trimmers and Pruners	7.0	1.33	1.33	1.33	2.33	2.33
+Gaming Supervisors	3.33	1.33	1.33	3.67	7.0	5.0
+Slot Supervisors	6.33	1.67	1.0	2.67	4.67	6.33
+First-Line Supervisors of Personal Service Workers	2.33	1.0	2.33	4.67	7.0	5.0
+Spa Managers	3.33	1.0	2.0	4.33	7.0	5.0
+Animal Trainers	7.0	3.67	2.0	3.67	2.67	3.67
+Nonfarm Animal Caretakers	6.67	2.33	1.0	3.33	3.0	5.33
+Gaming Dealers	5.0	2.0	1.0	2.33	5.33	7.0
+Gaming and Sports Book Writers and Runners	4.33	1.0	1.33	3.0	5.33	6.67
+Motion Picture Projectionists	6.67	3.0	1.33	1.0	1.67	5.0
+Ushers, Lobby Attendants, and Ticket Takers	4.33	1.0	1.33	5.0	4.67	5.0
+Amusement and Recreation Attendants	4.33	1.0	1.33	3.33	6.0	5.33
+Costume Attendants	4.67	1.0	3.67	3.33	2.33	6.67
+Locker Room, Coatroom, and Dressing Room Attendants	2.33	1.0	1.33	6.33	4.33	3.33
+Embalmers	6.67	4.0	1.33	3.0	3.33	4.67
+Funeral Attendants	4.33	1.0	2.0	6.33	4.33	2.67
+Morticians, Undertakers, and Funeral Directors	3.0	1.0	1.67	5.33	7.0	4.33
+Barbers	6.0	1.67	2.33	3.33	4.33	4.33
+Hairdressers, Hairstylists, and Cosmetologists	4.33	1.33	6.33	4.67	5.33	3.33
+Makeup Artists, Theatrical and Performance	5.0	2.0	7.0	3.0	2.67	1.0
+Manicurists and Pedicurists	5.67	1.0	2.33	4.33	5.0	4.33
+Shampooers	5.67	1.0	1.0	3.67	4.0	4.0
+Skincare Specialists	4.67	1.0	3.33	4.67	6.67	2.0
+Baggage Porters and Bellhops	7.0	1.0	1.0	3.33	3.0	4.33
+Concierges	2.67	1.0	2.67	5.67	5.33	3.33
+Tour Guides and Escorts	2.33	1.33	2.67	6.67	4.67	1.33
+Travel Guides	3.0	2.0	2.67	4.0	6.33	5.67
+Childcare Workers	2.67	1.67	5.0	7.0	3.0	3.33
+Nannies	2.67	1.33	4.0	7.0	4.0	4.0
+Personal Care Aides	5.33	1.67	1.33	7.0	2.33	4.33
+Fitness Trainers and Aerobics Instructors	5.33	1.67	3.0	7.0	4.33	1.33
+Recreation Workers	3.67	1.0	4.33	6.33	5.67	2.33
+Residential Advisors	2.33	1.33	2.67	6.67	5.33	4.67
+First-Line Supervisors of Retail Sales Workers	3.0	1.0	1.67	4.33	7.0	5.33
+First-Line Supervisors of Non-Retail Sales Workers	2.33	2.0	1.67	4.33	7.0	5.33
+Cashiers	2.67	1.0	1.33	2.67	4.33	6.67
+Gaming Change Persons and Booth Cashiers	3.33	1.0	1.0	2.0	4.67	6.67
+Counter and Rental Clerks	2.33	1.0	1.33	2.67	5.0	5.67
+Parts Salespersons	4.0	1.33	1.0	3.0	6.67	6.0
+Retail Salespersons	2.67	1.0	1.67	3.33	7.0	4.0
+Advertising Sales Agents	1.0	2.0	4.33	2.33	7.0	4.67
+Insurance Sales Agents	2.33	1.67	1.33	3.67	7.0	5.33
+Sales Agents, Securities and Commodities	1.33	2.33	1.33	3.33	7.0	5.67
+Sales Agents, Financial Services	1.0	2.0	2.0	3.0	7.0	4.33
+Securities and Commodities Traders	1.0	1.33	1.0	2.33	6.67	4.67
+Travel Agents	2.33	1.33	2.67	3.67	7.0	5.67
+Energy Brokers	2.33	1.67	1.67	3.33	7.0	5.0
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	3.33	3.33	1.67	2.67	7.0	5.33
+Solar Sales Representatives and Assessors	3.0	2.0	1.67	2.67	6.67	3.67
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	3.67	2.0	1.0	3.0	6.0	6.33
+Demonstrators and Product Promoters	3.67	1.0	2.0	2.67	7.0	5.0
+Models	4.67	1.0	6.33	1.33	5.33	2.67
+Real Estate Brokers	3.33	1.0	1.33	3.33	7.0	5.67
+Real Estate Sales Agents	3.33	1.33	1.67	3.67	7.0	5.33
+Sales Engineers	5.0	4.0	2.0	2.33	7.0	3.0
+Telemarketers	3.33	1.0	1.33	2.33	7.0	5.67
+Door-To-Door Sales Workers, News and Street Vendors, and Related Workers	3.0	1.0	2.33	3.0	7.0	4.67
+First-Line Supervisors of Office and Administrative Support Workers	1.67	1.33	1.67	4.33	6.67	5.67
+Switchboard Operators, Including Answering Service	3.0	1.0	1.0	3.67	4.67	6.67
+Telephone Operators	4.0	1.0	1.33	4.33	4.0	6.67
+Bill and Account Collectors	2.0	1.33	1.0	2.33	5.67	6.67
+Statement Clerks	2.67	2.0	1.33	4.0	5.33	7.0
+Billing, Cost, and Rate Clerks	3.0	2.33	1.0	2.33	5.0	7.0
+Bookkeeping, Accounting, and Auditing Clerks	2.33	2.33	1.0	1.67	3.67	7.0
+Gaming Cage Workers	4.0	1.33	1.0	2.67	4.67	7.0
+Payroll and Timekeeping Clerks	1.67	1.0	1.0	2.0	3.67	7.0
+Procurement Clerks	2.0	1.67	1.0	1.0	4.33	7.0
+Tellers	2.67	1.33	1.0	2.0	4.67	6.67
+Brokerage Clerks	2.67	1.67	1.0	3.0	5.33	7.0
+Correspondence Clerks	2.67	2.33	2.0	2.67	4.33	6.67
+Court Clerks	3.67	2.0	1.0	3.33	4.33	7.0
+Municipal Clerks	2.0	3.0	1.33	3.0	5.0	7.0
+License Clerks	1.33	1.33	1.0	3.0	4.67	6.67
+Credit Authorizers	1.67	1.33	1.0	2.33	5.0	6.33
+Credit Checkers	2.0	2.67	1.0	3.0	5.33	6.67
+Customer Service Representatives	1.67	1.33	1.0	4.33	6.33	4.33
+Patient Representatives	1.0	2.33	1.67	6.67	3.67	2.0
+Eligibility Interviewers, Government Programs	1.33	1.0	1.67	6.0	4.33	5.67
+File Clerks	4.67	2.33	1.0	2.33	3.67	7.0
+Hotel, Motel, and Resort Desk Clerks	2.33	1.0	1.33	4.0	5.33	6.0
+Interviewers, Except Eligibility and Loan	1.33	1.33	1.33	4.67	5.33	6.0
+Library Assistants, Clerical	5.33	1.67	1.0	4.0	2.67	7.0
+Loan Interviewers and Clerks	1.33	1.33	1.0	2.67	4.67	7.0
+New Accounts Clerks	2.33	2.0	1.0	4.33	5.67	6.67
+Order Clerks	3.0	1.33	1.33	4.0	5.0	7.0
+Human Resources Assistants, Except Payroll and Timekeeping	1.33	1.67	1.0	3.33	4.67	7.0
+Receptionists and Information Clerks	1.67	1.0	1.0	3.33	5.33	6.67
+Reservation and Transportation Ticket Agents and Travel Clerks	1.67	1.33	1.67	4.0	5.67	6.33
+Cargo and Freight Agents	3.67	1.67	1.0	2.33	5.67	6.33
+Freight Forwarders	2.67	3.0	1.33	2.33	4.67	6.67
+Couriers and Messengers	7.0	1.0	1.0	1.67	3.0	3.33
+Police, Fire, and Ambulance Dispatchers	4.67	2.67	1.0	3.33	4.0	6.67
+Dispatchers, Except Police, Fire, and Ambulance	4.0	1.67	1.0	3.0	4.0	6.67
+Meter Readers, Utilities	5.33	1.67	1.0	2.67	2.67	7.0
+Postal Service Clerks	3.67	1.0	1.33	3.0	2.67	7.0
+Postal Service Mail Carriers	5.67	1.33	1.0	3.0	3.33	6.33
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	4.67	1.0	1.0	1.33	2.33	7.0
+Production, Planning, and Expediting Clerks	2.67	1.67	1.0	1.67	5.33	6.67
+Shipping, Receiving, and Traffic Clerks	5.0	1.0	1.0	1.0	3.67	6.33
+Stock Clerks, Sales Floor	5.33	1.33	1.33	2.67	4.67	6.0
+Marking Clerks	4.67	1.0	1.0	1.0	2.67	5.33
+Stock Clerks- Stockroom, Warehouse, or Storage Yard	6.33	1.0	1.0	1.33	2.67	6.33
+Order Fillers, Wholesale and Retail Sales	5.33	1.67	1.0	2.0	3.33	7.0
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	4.67	2.0	1.0	1.67	3.33	7.0
+Executive Secretaries and Executive Administrative Assistants	2.67	2.67	1.33	3.33	4.67	7.0
+Legal Secretaries	2.33	2.0	1.0	2.33	4.33	7.0
+Medical Secretaries	3.0	3.33	1.33	4.33	3.33	7.0
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	1.33	1.0	1.33	3.0	5.0	7.0
+Computer Operators	5.33	3.67	1.0	2.0	3.33	7.0
+Data Entry Keyers	4.33	2.67	1.0	1.0	3.33	7.0
+Word Processors and Typists	1.33	1.0	1.0	1.33	2.67	7.0
+Desktop Publishers	3.33	4.0	6.0	1.33	2.0	3.67
+Insurance Claims Clerks	1.0	2.0	1.0	3.0	4.67	6.67
+Insurance Policy Processing Clerks	1.0	1.67	1.0	2.33	4.33	7.0
+Mail Clerks and Mail Machine Operators, Except Postal Service	6.0	2.33	1.33	1.33	2.33	6.67
+Office Clerks, General	3.67	1.67	1.0	3.67	4.33	7.0
+Office Machine Operators, Except Computer	6.0	1.0	1.0	1.67	2.67	5.67
+Proofreaders and Copy Markers	1.33	1.67	3.33	2.67	2.67	6.67
+Statistical Assistants	2.67	5.33	2.0	1.33	3.67	7.0
+Bioinformatics Technicians	4.33	6.33	1.67	1.33	1.67	4.0
+First-Line Supervisors of Logging Workers	5.67	2.0	1.33	3.0	7.0	4.33
+First-Line Supervisors of Aquacultural Workers	5.33	2.67	1.0	2.33	7.0	5.0
+First-Line Supervisors of Agricultural Crop and Horticultural Workers	6.33	2.33	1.0	2.33	5.33	4.67
+First-Line Supervisors of Animal Husbandry and Animal Care Workers	6.0	2.33	1.0	2.0	6.67	3.33
+Agricultural Inspectors	6.67	4.0	1.33	1.67	3.33	4.33
+Animal Breeders	6.67	3.67	1.33	1.0	2.67	2.67
+Graders and Sorters, Agricultural Products	6.0	3.0	1.33	1.0	1.67	5.67
+Agricultural Equipment Operators	7.0	1.67	1.0	1.0	1.67	2.0
+Nursery Workers	7.0	1.33	1.0	1.0	1.33	2.0
+Farmworkers and Laborers, Crop	7.0	1.33	1.0	1.0	1.0	2.0
+Farmworkers, Farm, Ranch, and Aquacultural Animals	7.0	1.33	1.0	1.0	1.33	2.33
+Fishers and Related Fishing Workers	7.0	2.0	1.0	1.0	2.33	1.67
+Hunters and Trappers	7.0	2.33	1.67	1.0	1.67	1.67
+Forest and Conservation Workers	7.0	3.67	1.33	1.67	3.0	4.67
+Fallers	7.0	2.0	1.0	1.0	2.0	3.33
+Logging Equipment Operators	7.0	3.67	1.0	1.0	1.67	3.67
+Log Graders and Scalers	6.0	2.0	1.0	1.0	3.0	4.67
+First-Line Supervisors of Construction Trades and Extraction Workers	5.67	1.67	1.0	2.33	7.0	4.67
+Solar Energy Installation Managers	4.33	2.33	1.33	2.33	6.67	3.0
+Boilermakers	7.0	1.67	1.0	1.0	1.67	2.67
+Brickmasons and Blockmasons	7.0	4.33	2.67	1.0	1.33	4.33
+Stonemasons	7.0	1.0	2.0	1.33	2.0	2.0
+Construction Carpenters	7.0	3.67	2.67	1.0	1.67	4.67
+Rough Carpenters	7.0	4.67	2.33	1.0	1.67	4.67
+Carpet Installers	7.0	1.33	1.33	1.67	3.0	2.67
+Floor Layers, Except Carpet, Wood, and Hard Tiles	7.0	3.0	2.33	1.0	1.33	5.33
+Floor Sanders and Finishers	7.0	1.0	1.0	1.0	1.33	2.0
+Tile and Marble Setters	7.0	2.67	3.67	1.33	1.67	4.67
+Cement Masons and Concrete Finishers	7.0	1.67	1.33	1.0	3.0	2.67
+Terrazzo Workers and Finishers	7.0	1.0	2.0	1.0	1.67	2.0
+Construction Laborers	7.0	1.0	1.0	1.0	2.33	2.67
+Paving, Surfacing, and Tamping Equipment Operators	7.0	1.0	1.0	1.0	2.33	2.67
+Pile-Driver Operators	7.0	3.33	1.33	1.0	1.67	3.67
+Operating Engineers and Other Construction Equipment Operators	7.0	3.33	1.0	1.0	1.67	4.33
+Drywall and Ceiling Tile Installers	7.0	3.0	2.0	1.33	2.0	5.33
+Tapers	7.0	1.67	1.0	1.0	1.67	2.33
+Electricians	7.0	3.33	1.33	1.33	2.67	3.33
+Glaziers	7.0	1.33	1.0	1.0	2.0	2.67
+Insulation Workers, Floor, Ceiling, and Wall	6.67	1.33	1.0	1.0	1.67	2.33
+Insulation Workers, Mechanical	7.0	4.0	1.67	1.0	1.67	5.0
+Painters, Construction and Maintenance	7.0	1.0	1.67	1.0	1.67	2.67
+Paperhangers	7.0	2.33	2.0	1.0	2.0	4.67
+Pipelayers	7.0	1.33	1.0	1.33	2.33	2.33
+Pipe Fitters and Steamfitters	7.0	2.0	1.33	1.0	2.0	3.0
+Plumbers	7.0	4.33	1.67	1.0	2.33	5.0
+Plasterers and Stucco Masons	7.0	1.0	2.33	1.0	2.0	2.33
+Reinforcing Iron and Rebar Workers	7.0	3.33	1.67	1.0	1.0	4.67
+Roofers	7.0	2.0	1.0	1.0	1.67	2.67
+Sheet Metal Workers	7.0	1.33	1.67	1.0	1.67	2.0
+Structural Iron and Steel Workers	7.0	3.0	1.33	1.0	2.0	3.0
+Solar Photovoltaic Installers	6.67	2.67	1.33	1.67	1.67	4.0
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	7.0	1.0	1.0	1.33	1.67	2.33
+Helpers--Carpenters	7.0	2.0	1.33	1.33	2.33	4.33
+Helpers--Electricians	6.67	2.67	1.33	1.33	1.67	3.33
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	6.67	1.0	1.67	1.33	2.33	2.67
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	7.0	1.33	1.0	1.0	1.67	2.33
+Helpers--Roofers	7.0	2.0	1.0	2.0	2.0	4.33
+Construction and Building Inspectors	7.0	4.67	1.33	1.0	2.67	6.0
+Elevator Installers and Repairers	7.0	5.0	1.67	1.0	2.33	4.67
+Fence Erectors	7.0	2.67	1.33	1.0	2.67	4.67
+Hazardous Materials Removal Workers	6.67	3.0	1.0	1.67	2.33	3.67
+Highway Maintenance Workers	7.0	3.0	1.0	1.33	2.33	4.33
+Rail-Track Laying and Maintenance Equipment Operators	7.0	1.33	1.0	1.0	1.67	2.33
+Septic Tank Servicers and Sewer Pipe Cleaners	7.0	1.67	1.0	1.33	2.67	2.33
+Segmental Pavers	7.0	1.0	1.67	1.0	2.33	2.67
+Solar Thermal Installers and Technicians	6.67	2.33	1.0	2.0	2.0	4.0
+Weatherization Installers and Technicians	6.67	2.67	1.0	2.33	2.67	4.0
+Derrick Operators, Oil and Gas	7.0	4.0	1.0	1.33	2.33	4.33
+Rotary Drill Operators, Oil and Gas	7.0	2.0	1.0	2.0	4.0	3.33
+Service Unit Operators, Oil, Gas, and Mining	7.0	3.67	1.0	1.33	2.33	4.33
+Earth Drillers, Except Oil and Gas	7.0	5.0	2.0	1.0	1.33	4.33
+Explosives Workers, Ordnance Handling Experts, and Blasters	6.67	5.67	1.33	1.33	2.33	4.67
+Continuous Mining Machine Operators	7.0	3.33	1.0	1.0	2.0	3.67
+Mine Cutting and Channeling Machine Operators	7.0	1.33	1.0	1.0	1.33	2.0
+Rock Splitters, Quarry	7.0	2.67	1.33	1.0	1.33	3.67
+Roof Bolters, Mining	7.0	1.33	1.0	1.0	1.33	2.67
+Roustabouts, Oil and Gas	7.0	1.33	1.0	1.0	1.33	2.0
+Helpers--Extraction Workers	7.0	2.67	1.0	2.0	2.0	4.33
+First-Line Supervisors of Mechanics, Installers, and Repairers	4.67	2.33	1.0	2.67	7.0	5.67
+Computer, Automated Teller, and Office Machine Repairers	7.0	4.67	1.33	2.0	2.67	5.0
+Radio, Cellular, and Tower Equipment Installers and Repairers	7.0	2.33	1.0	1.67	2.0	3.0
+Radio Mechanics	7.0	5.33	1.67	1.0	1.67	4.33
+Telecommunications Equipment Installers and Repairers, Except Line Installers	7.0	5.0	1.33	2.0	2.33	4.67
+Avionics Technicians	7.0	4.33	1.33	1.0	2.33	4.33
+Electric Motor, Power Tool, and Related Repairers	7.0	2.33	1.0	1.0	1.33	3.33
+Electrical and Electronics Installers and Repairers, Transportation Equipment	7.0	3.0	1.0	1.0	2.0	4.0
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	7.0	5.33	2.33	1.0	2.67	4.67
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	6.67	3.0	1.33	1.0	2.0	3.67
+Electronic Equipment Installers and Repairers, Motor Vehicles	7.0	5.0	2.0	1.0	2.0	4.33
+Electronic Home Entertainment Equipment Installers and Repairers	6.33	3.0	1.33	2.0	3.0	4.33
+Security and Fire Alarm Systems Installers	6.67	2.67	1.0	1.0	2.0	3.67
+Aircraft Mechanics and Service Technicians	7.0	3.67	1.33	1.0	2.0	4.67
+Automotive Body and Related Repairers	7.0	1.67	1.67	1.0	2.33	2.33
+Automotive Glass Installers and Repairers	7.0	1.0	1.0	1.67	3.0	3.33
+Automotive Master Mechanics	7.0	3.67	1.0	1.33	3.0	3.0
+Automotive Specialty Technicians	7.0	3.33	1.0	1.0	2.0	3.0
+Bus and Truck Mechanics and Diesel Engine Specialists	7.0	2.33	1.0	1.0	1.67	3.33
+Farm Equipment Mechanics and Service Technicians	7.0	4.0	1.33	1.33	2.0	5.0
+Mobile Heavy Equipment Mechanics, Except Engines	7.0	2.67	1.0	1.0	1.67	3.0
+Rail Car Repairers	7.0	2.67	1.0	1.0	1.33	2.67
+Motorboat Mechanics and Service Technicians	7.0	3.0	1.0	1.0	1.67	3.67
+Motorcycle Mechanics	7.0	2.33	1.33	1.0	2.0	2.67
+Outdoor Power Equipment and Other Small Engine Mechanics	7.0	2.0	1.0	1.67	3.0	3.33
+Bicycle Repairers	7.0	3.67	2.0	1.0	2.67	4.33
+Recreational Vehicle Service Technicians	7.0	4.67	1.33	1.33	2.33	4.0
+Tire Repairers and Changers	7.0	3.0	1.0	2.0	2.0	4.0
+Mechanical Door Repairers	7.0	2.33	1.0	1.0	2.33	2.67
+Control and Valve Installers and Repairers, Except Mechanical Door	7.0	4.0	1.0	1.0	2.0	4.67
+Heating and Air Conditioning Mechanics and Installers	7.0	4.67	2.0	1.33	3.0	4.67
+Refrigeration Mechanics and Installers	7.0	1.67	1.0	1.0	3.0	3.0
+Home Appliance Repairers	7.0	4.33	1.0	1.67	2.67	5.0
+Industrial Machinery Mechanics	7.0	4.67	1.33	1.33	1.33	4.33
+Maintenance Workers, Machinery	7.0	3.67	1.33	1.33	2.0	5.0
+Millwrights	7.0	3.0	1.67	1.0	1.33	3.0
+Refractory Materials Repairers, Except Brickmasons	7.0	3.33	1.0	1.0	1.67	3.67
+Electrical Power-Line Installers and Repairers	7.0	4.33	2.33	1.0	1.67	4.0
+Telecommunications Line Installers and Repairers	6.67	2.0	1.0	1.0	3.0	2.67
+Camera and Photographic Equipment Repairers	7.0	4.67	2.0	1.0	1.67	4.67
+Medical Equipment Repairers	7.0	5.0	1.67	1.33	1.67	4.67
+Musical Instrument Repairers and Tuners	7.0	4.0	4.67	1.33	1.67	4.0
+Watch Repairers	7.0	4.0	1.33	1.0	1.67	4.67
+Maintenance and Repair Workers, General	7.0	3.67	1.33	1.0	2.33	4.33
+Wind Turbine Service Technicians	6.67	2.33	1.0	1.33	2.33	4.0
+Coin, Vending, and Amusement Machine Servicers and Repairers	7.0	3.33	1.0	1.0	3.0	5.0
+Commercial Divers	7.0	2.33	1.33	1.0	2.33	2.33
+Fabric Menders, Except Garment	7.0	1.0	1.67	1.0	1.33	2.0
+Locksmiths and Safe Repairers	7.0	1.67	1.0	1.67	2.33	3.67
+Manufactured Building and Mobile Home Installers	7.0	1.67	1.33	2.33	2.67	3.33
+Riggers	7.0	3.67	1.33	1.0	2.33	5.0
+Signal and Track Switch Repairers	7.0	2.0	1.0	1.0	1.67	3.33
+Helpers--Installation, Maintenance, and Repair Workers	7.0	4.67	1.0	1.33	1.67	5.33
+Geothermal Technicians	6.67	2.33	1.0	1.33	2.33	4.0
+First-Line Supervisors of Production and Operating Workers	5.67	2.67	1.0	2.33	7.0	5.0
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	7.0	1.67	1.0	1.0	2.0	2.67
+Coil Winders, Tapers, and Finishers	7.0	3.33	1.33	1.0	1.67	4.67
+Electrical and Electronic Equipment Assemblers	7.0	1.67	1.0	1.0	2.0	3.0
+Electromechanical Equipment Assemblers	7.0	4.33	1.33	1.0	1.67	4.67
+Engine and Other Machine Assemblers	7.0	2.0	1.0	1.0	1.33	3.0
+Structural Metal Fabricators and Fitters	7.0	3.0	2.67	1.0	1.67	5.0
+Fiberglass Laminators and Fabricators	7.0	3.67	2.0	1.0	1.33	5.33
+Team Assemblers	7.0	2.0	1.0	1.67	4.67	5.0
+Timing Device Assemblers and Adjusters	7.0	1.67	1.33	1.0	1.33	2.67
+Bakers	6.67	1.33	2.33	1.0	3.0	4.0
+Butchers and Meat Cutters	6.67	1.67	1.33	1.33	4.0	4.67
+Meat, Poultry, and Fish Cutters and Trimmers	7.0	1.33	1.0	1.0	1.33	2.0
+Slaughterers and Meat Packers	7.0	2.0	1.67	1.0	2.67	5.0
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	7.0	1.67	1.0	1.0	2.0	3.0
+Food Batchmakers	7.0	3.33	1.67	1.0	3.0	6.0
+Food Cooking Machine Operators and Tenders	7.0	3.33	1.0	1.33	2.67	5.33
+Computer-Controlled Machine Tool Operators, Metal and Plastic	7.0	1.67	1.0	1.0	1.67	2.67
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	5.67	6.0	2.0	1.33	1.67	6.0
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	1.33	1.0	1.0	1.67	2.67
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	3.33	1.0	1.0	2.0	4.33
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	6.67	2.0	1.0	1.0	3.0	4.0
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	3.33	1.0	1.0	2.33	5.33
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	7.0	4.67	1.67	1.0	2.0	5.0
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	7.0	1.67	1.0	1.0	1.67	2.33
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	7.0	4.67	2.0	1.0	1.33	4.33
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	1.67	1.0	1.0	1.67	3.33
+Machinists	7.0	4.67	2.0	1.0	1.33	5.33
+Metal-Refining Furnace Operators and Tenders	7.0	5.67	1.67	1.0	1.67	5.0
+Pourers and Casters, Metal	7.0	2.0	1.0	1.0	1.67	3.0
+Model Makers, Metal and Plastic	6.67	3.33	1.67	1.0	2.0	3.33
+Patternmakers, Metal and Plastic	7.0	4.33	4.0	1.0	1.33	4.33
+Foundry Mold and Coremakers	7.0	3.33	2.33	1.0	2.0	4.0
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	3.67	1.67	1.0	1.33	5.0
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	7.0	2.0	1.0	1.33	1.67	2.33
+Tool and Die Makers	6.67	5.0	3.33	1.0	1.33	4.33
+Welders, Cutters, and Welder Fitters	7.0	2.33	1.0	1.0	1.67	3.33
+Solderers and Brazers	7.0	1.67	1.0	1.0	1.33	2.0
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	7.0	3.33	1.33	1.0	3.33	4.67
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	7.0	2.33	1.33	1.0	2.0	3.33
+Layout Workers, Metal and Plastic	6.33	3.67	2.0	1.0	1.67	3.67
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	7.0	2.33	1.0	1.0	1.33	3.33
+Tool Grinders, Filers, and Sharpeners	7.0	2.0	1.33	1.0	2.0	3.0
+Prepress Technicians and Workers	6.33	1.0	1.67	1.0	2.0	5.67
+Printing Press Operators	6.33	1.67	1.67	1.33	2.0	5.0
+Print Binding and Finishing Workers	6.0	1.67	3.0	1.33	2.33	4.67
+Laundry and Dry-Cleaning Workers	6.33	1.33	1.0	1.33	2.33	3.33
+Pressers, Textile, Garment, and Related Materials	7.0	2.67	2.33	1.33	2.0	5.33
+Sewing Machine Operators	6.67	1.33	1.67	1.0	1.67	4.0
+Shoe and Leather Workers and Repairers	7.0	1.67	4.0	1.67	1.67	4.67
+Shoe Machine Operators and Tenders	7.0	1.33	1.0	1.0	1.67	2.67
+Sewers, Hand	6.0	1.67	5.0	1.33	1.67	4.67
+Tailors, Dressmakers, and Custom Sewers	6.67	1.0	4.0	2.0	3.67	2.33
+Textile Bleaching and Dyeing Machine Operators and Tenders	6.67	1.67	1.0	1.0	1.67	2.33
+Textile Cutting Machine Setters, Operators, and Tenders	7.0	1.33	1.0	1.0	1.33	2.67
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	7.0	1.33	2.33	1.33	2.67	5.0
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	6.67	1.67	1.0	1.0	2.0	3.33
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	7.0	2.33	1.0	1.0	2.0	2.67
+Fabric and Apparel Patternmakers	5.67	1.33	4.67	1.0	2.0	3.67
+Upholsterers	6.67	1.0	1.67	1.0	2.33	2.0
+Cabinetmakers and Bench Carpenters	7.0	1.0	2.0	1.0	2.0	2.67
+Furniture Finishers	7.0	1.0	2.67	1.0	1.67	2.0
+Model Makers, Wood	7.0	3.33	4.67	1.0	1.0	4.33
+Patternmakers, Wood	7.0	4.33	4.0	1.0	1.33	4.0
+Sawing Machine Setters, Operators, and Tenders, Wood	7.0	3.33	1.67	1.0	1.0	5.0
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	7.0	3.67	1.67	1.0	1.33	4.67
+Nuclear Power Reactor Operators	6.67	1.67	1.0	1.0	3.0	4.0
+Power Distributors and Dispatchers	6.67	5.0	1.33	1.33	4.0	4.33
+Power Plant Operators	6.33	2.0	1.0	1.0	2.33	4.33
+Stationary Engineers and Boiler Operators	7.0	4.67	1.0	1.33	2.33	4.33
+Water and Wastewater Treatment Plant and System Operators	6.33	2.33	1.33	1.0	2.0	3.67
+Chemical Plant and System Operators	7.0	2.33	1.0	1.33	2.0	3.67
+Gas Plant Operators	6.33	3.33	1.0	1.0	2.67	6.33
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	7.0	1.67	1.0	1.33	2.33	4.33
+Biofuels Processing Technicians	6.0	3.0	1.0	1.33	2.0	4.0
+Methane/Landfill Gas Generation System Technicians	6.0	3.33	1.0	1.33	2.0	4.0
+Biomass Plant Technicians	6.0	3.0	1.0	1.33	2.0	4.0
+Hydroelectric Plant Technicians	6.0	3.0	1.0	1.33	1.67	3.67
+Chemical Equipment Operators and Tenders	7.0	2.0	1.33	1.0	2.0	3.33
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	7.0	4.33	1.33	1.33	2.33	5.0
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	7.0	3.67	1.33	1.0	2.0	5.0
+Grinding and Polishing Workers, Hand	7.0	3.33	2.67	1.0	1.67	4.33
+Mixing and Blending Machine Setters, Operators, and Tenders	7.0	3.67	1.0	1.0	1.33	4.67
+Cutters and Trimmers, Hand	7.0	2.33	1.67	1.0	2.0	5.33
+Cutting and Slicing Machine Setters, Operators, and Tenders	7.0	1.33	1.0	1.0	2.0	3.0
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	7.0	3.67	1.33	1.0	1.67	5.33
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	7.0	2.67	1.0	1.0	2.0	4.0
+Inspectors, Testers, Sorters, Samplers, and Weighers	6.33	3.67	1.0	1.67	2.67	6.67
+Jewelers	6.67	2.67	6.33	1.0	3.67	2.67
+Gem and Diamond Workers	6.67	3.33	2.0	1.0	2.33	3.0
+Precious Metal Workers	7.0	1.67	3.0	1.0	1.33	2.33
+Dental Laboratory Technicians	6.33	5.0	2.0	2.67	1.67	4.33
+Medical Appliance Technicians	7.0	4.67	2.33	4.33	1.67	3.0
+Ophthalmic Laboratory Technicians	7.0	2.33	1.0	1.0	2.0	3.67
+Packaging and Filling Machine Operators and Tenders	7.0	3.0	1.67	1.0	1.67	5.33
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	7.0	3.67	2.0	1.0	1.67	4.67
+Painters, Transportation Equipment	7.0	3.33	3.33	1.0	1.33	4.33
+Painting, Coating, and Decorating Workers	7.0	1.33	2.67	1.33	1.67	2.67
+Semiconductor Processors	7.0	4.33	1.33	1.0	2.33	5.0
+Photographic Process Workers and Processing Machine Operators	4.33	2.0	2.67	2.0	2.0	6.33
+Adhesive Bonding Machine Operators and Tenders	6.67	1.33	1.0	1.0	2.0	3.67
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	7.0	1.33	1.0	1.0	1.33	2.67
+Cooling and Freezing Equipment Operators and Tenders	7.0	4.0	1.0	1.0	1.67	5.0
+Etchers and Engravers	7.0	1.0	2.67	1.67	2.33	3.33
+Stone Cutters and Carvers, Manufacturing	7.0	1.67	6.0	1.0	1.67	2.67
+Glass Blowers, Molders, Benders, and Finishers	6.67	3.0	4.33	1.0	2.0	5.0
+Potters, Manufacturing	6.67	1.33	4.0	1.0	1.33	1.67
+Molding and Casting Workers	7.0	1.0	1.0	1.0	1.0	2.33
+Paper Goods Machine Setters, Operators, and Tenders	6.67	3.0	1.0	1.0	2.33	4.67
+Tire Builders	7.0	3.0	1.33	1.0	1.67	4.33
+Helpers--Production Workers	7.0	3.0	1.33	1.33	1.33	5.0
+Recycling and Reclamation Workers	6.67	1.33	1.33	1.33	1.67	6.67
+Aircraft Cargo Handling Supervisors	5.67	2.67	1.33	2.0	7.0	3.67
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	4.67	1.33	1.0	2.33	7.0	4.33
+Recycling Coordinators	2.67	1.67	1.0	2.0	5.67	4.0
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	4.67	1.67	1.0	2.0	7.0	5.67
+Airline Pilots, Copilots, and Flight Engineers	7.0	4.33	1.33	1.67	3.0	5.33
+Commercial Pilots	6.67	4.33	1.0	2.33	4.33	3.67
+Air Traffic Controllers	3.67	2.33	1.0	2.33	6.33	6.0
+Airfield Operations Specialists	3.67	3.67	1.0	2.33	5.0	5.0
+Flight Attendants	3.33	1.33	2.33	5.33	6.0	4.67
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	7.0	1.67	1.33	5.67	3.33	3.0
+Bus Drivers, Transit and Intercity	7.0	1.0	1.0	3.67	3.0	2.33
+Bus Drivers, School or Special Client	7.0	1.67	1.0	3.33	3.33	5.0
+Driver/Sales Workers	6.0	1.0	1.33	2.33	5.67	3.33
+Heavy and Tractor-Trailer Truck Drivers	7.0	3.0	1.0	1.0	2.0	4.67
+Light Truck or Delivery Services Drivers	7.0	2.67	1.0	1.0	3.0	5.33
+Taxi Drivers and Chauffeurs	5.67	1.33	1.0	3.0	5.0	2.67
+Locomotive Engineers	7.0	2.33	1.33	1.67	2.33	4.67
+Locomotive Firers	6.67	3.0	1.0	1.33	2.33	5.33
+Rail Yard Engineers, Dinkey Operators, and Hostlers	7.0	3.67	1.0	1.67	3.33	4.33
+Railroad Brake, Signal, and Switch Operators	7.0	1.33	1.0	1.33	2.33	3.33
+Railroad Conductors and Yardmasters	5.67	2.33	1.0	1.33	6.33	5.0
+Subway and Streetcar Operators	7.0	2.67	1.0	2.67	3.0	5.33
+Sailors and Marine Oilers	7.0	3.0	1.0	1.0	3.33	5.0
+Ship and Boat Captains	6.0	2.33	1.0	2.33	6.67	3.67
+Mates- Ship, Boat, and Barge	6.0	3.0	1.0	2.0	6.67	5.33
+Pilots, Ship	7.0	4.33	1.0	2.0	4.33	4.33
+Motorboat Operators	7.0	3.0	1.0	1.67	4.67	4.67
+Ship Engineers	7.0	3.0	1.0	2.0	5.0	5.33
+Bridge and Lock Tenders	6.67	1.67	1.0	1.33	3.67	4.33
+Parking Lot Attendants	6.67	1.0	1.0	2.67	3.33	5.67
+Automotive and Watercraft Service Attendants	7.0	2.33	1.0	3.33	2.33	4.67
+Traffic Technicians	6.33	4.67	1.33	2.33	3.67	3.0
+Aviation Inspectors	6.67	5.33	1.0	1.33	2.67	5.67
+Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation	6.67	4.0	1.33	1.33	2.0	5.67
+Freight and Cargo Inspectors	6.67	2.67	1.0	1.33	3.67	6.33
+Transportation Attendants, Except Flight Attendants	4.67	1.0	1.33	4.67	4.67	4.33
+Conveyor Operators and Tenders	6.67	1.0	1.0	1.0	2.33	2.67
+Crane and Tower Operators	7.0	3.33	1.0	1.0	1.67	4.33
+Dredge Operators	7.0	1.33	1.0	1.0	1.67	2.0
+Excavating and Loading Machine and Dragline Operators	7.0	1.67	1.0	1.0	2.0	1.67
+Loading Machine Operators, Underground Mining	7.0	3.0	1.0	1.0	1.67	4.0
+Hoist and Winch Operators	7.0	1.33	1.0	1.0	2.67	2.67
+Industrial Truck and Tractor Operators	7.0	3.0	1.0	1.0	1.67	4.67
+Cleaners of Vehicles and Equipment	6.67	1.33	1.0	1.33	2.0	3.33
+Laborers and Freight, Stock, and Material Movers, Hand	7.0	1.0	1.0	1.0	1.67	2.33
+Machine Feeders and Offbearers	7.0	1.0	1.0	1.0	1.33	2.67
+Packers and Packagers, Hand	6.67	1.0	1.0	1.0	2.0	2.67
+Gas Compressor and Gas Pumping Station Operators	7.0	1.33	1.0	1.0	2.0	3.0
+Pump Operators, Except Wellhead Pumpers	7.0	4.0	1.0	1.33	2.0	4.67
+Wellhead Pumpers	7.0	3.67	1.0	1.0	1.33	5.0
+Refuse and Recyclable Material Collectors	7.0	1.33	1.0	1.0	2.33	3.67
+Mine Shuttle Car Operators	7.0	1.33	1.0	1.0	1.67	2.33
+Tank Car, Truck, and Ship Loaders	7.0	3.0	1.0	1.33	2.0	5.0

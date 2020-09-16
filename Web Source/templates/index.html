@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Witty Goldfish</title>
+    <style>
+
+        body {
+            background-color: #dce3f5;
+        }
+
+        .background {
+            fill: #ededed;
+            pointer-events: all;
+        }
+
+        #states {
+            fill: #576b9e;
+        }
+
+        #states .active {
+            display:none;
+        }
+
+        #state-borders {
+            fill: none;
+            stroke: #fff;
+            stroke-width: 1.5px;
+            stroke-linejoin: round;
+            stroke-linecap: round;
+            pointer-events: none;
+        }
+
+        .county-boundary {
+            fill: #aaa;
+            stroke: #fff;
+            stroke-width: .5px;
+        }
+
+        .d3-tip {
+            line-height: 1;
+            padding: 12px;
+            background: rgba(43, 43, 43, 0.8);
+            color: #fff;
+            border-radius: 2px;
+        }
+
+        .county-boundary:hover, .state:hover {
+            fill: orange;
+        }
+    </style>
+</head>
+<body>
+
+  <form id="myForm" action="/index.html">
+  <label for="lname" style="font-family:verdana">Job History (Please enter a list of previous job titles seperated by commas):</label><br>
+  <input type="text" id="jh" name="jh" value="" size="50"><br><br>
+  <label for="lname" style="font-family:verdana">O*Net Interest Profiler Scores  (</label>
+  <a href="https://www.mynextmove.org/explore/ip" style="font-family:verdana">Link to quiz</a>
+  <label for="lname" style="font-family:verdana">) :</label><br>
+  <label for="realistic" style="font-family:verdana">Realistic:</label>
+  <select id="realistic" name="realistic">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+  <label for="investigative" style="font-family:verdana">Investigative:</label>
+  <select id="investigative" name="investigative">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+<label for="artistic" style="font-family:verdana">Artistic:</label>
+  <select id="artistic" name="artistic">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+<label for="social" style="font-family:verdana">Social:</label>
+  <select id="social" name="social">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+<label for="enterprising" style="font-family:verdana">Enterprising:</label>
+  <select id="enterprising" name="enterprising">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+<label for="conventional" style="font-family:verdana">Conventional:</label>
+  <select id="conventional" name="conventional">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+    <option value="21">21</option>
+    <option value="22">22</option>
+    <option value="23">23</option>
+    <option value="24">24</option>
+    <option value="25">25</option>
+    <option value="26">26</option>
+    <option value="27">27</option>
+    <option value="28">28</option>
+    <option value="29">29</option>
+    <option value="30">30</option>
+    <option value="31">31</option>
+    <option value="32">32</option>
+    <option value="33">33</option>
+    <option value="34">34</option>
+    <option value="35">35</option>
+    <option value="36">36</option>
+    <option value="37">37</option>
+    <option value="38">38</option>
+    <option value="39">39</option>
+    <option value="40">40</option>
+  </select><br>
+
+  <input id="predButton" type="button" onclick="submitJH()" value="Submit" style="font-family:verdana"><br><br>
+  <label id="predictedJob" style="font-family:verdana"></label><br>
+
+
+
+  </form>
+
+    <div class="viz"></div>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+
+    <script type="text/javascript">
+
+        var s = `{{s | safe}}`
+        //console.log(s);
+
+        var jobHist = "";
+        var s1 = "";
+        var s2 = "";
+        var s3 = "";
+        var s4 = "";
+        var s5 = "";
+        var s6 = "";
+        var s1num = 0;
+        var s2num = 0;
+        var s3num = 0;
+        var s4num = 0;
+        var s5num = 0;
+        var s6num = 0;
+
+        var countyCode = "";
+        var job1 = "";
+        var job2 = "";
+        var job3 = "";
+        var pay1 = "";
+        var pay2 = "";
+        var pay3 = "";
+        var avgSalary = "";
+        var indcode = "";
+        var predictedJob = "";
+
+        var predictDone = false;
+        var predictPay = "";
+        var predictID = "";
+        var quotients = new Object();
+        var states = d3.map();
+        var color = d3.scaleThreshold()
+            .range(d3.schemeGreens[9]);
+
+        var temp;
+        var statemap;
+
+        var input = document.getElementById("jh");
+
+        input.addEventListener("keydown", function(event) {
+            // Number 13 is the "Enter" key on the keyboard
+            if (event.keyCode === 13) {
+                // Cancel the default action, if needed
+                event.preventDefault();
+                // Trigger the button element with a click
+                document.getElementById("predButton").click();
+            }
+            });
+
+
+        function submitJH() {
+          jobHist = document.getElementById("jh").value;
+
+          s1 = document.getElementById("realistic").value;
+          s1num = parseInt(s1);
+
+          s2 = document.getElementById("investigative").value;
+          s2num = parseInt(s2);
+
+          s3 = document.getElementById("artistic").value;
+          s3num = parseInt(s3);
+
+          s4 = document.getElementById("social").value;
+          s4num = parseInt(s4);
+
+          s5 = document.getElementById("enterprising").value;
+          s5num = parseInt(s5);
+
+          s6 = document.getElementById("conventional").value;
+          s6num = parseInt(s6);
+
+          var riasecSum = s1num + s2num + s3num + s4num + s5num + s6num;
+
+            if(riasecSum < 1 && !jobHist.includes(",")){
+
+                alert("Please enter at least two job titles or one job title and your O*Net Interest Profiler Scores");
+
+            }else{
+
+            document.getElementById('predictedJob').innerHTML = '';
+            document.getElementById('predButton').disabled = true;
+
+            getCLFData();
+            //buildStateGradient();
+
+
+            document.getElementById("jh").value = "";
+            document.getElementById("realistic").value = "0";
+            document.getElementById("investigative").value = "0";
+            document.getElementById("artistic").value = "0";
+            document.getElementById("social").value = "0";
+            document.getElementById("enterprising").value = "0";
+            document.getElementById("conventional").value = "0";
+            }
+
+
+
+        }
+
+
+
+        var margin = {
+            top: 10,
+            bottom: 10,
+            left: 10,
+            right:10
+        }, width = parseInt(d3.select('.viz').style('width'))
+            , width = width - margin.left - margin.right
+            , mapRatio = 0.5
+            , height = width * mapRatio
+            , active = d3.select(null);
+
+        var svg = d3.select('.viz').append('svg')
+            .attr('class', 'center-container')
+            .attr('height', height + margin.top + margin.bottom)
+            .attr('width', width + margin.left + margin.right);
+
+        svg.append('rect')
+            .attr('class', 'background center-container')
+            .attr('height', height + margin.top + margin.bottom)
+            .attr('width', width + margin.left + margin.right)
+            .on('click', clicked);
+
+            var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-5, 0])
+                .html(function(d) {
+                    var textStr = countyClicked + " County" +"<br />";
+                    textStr += "Most Common Jobs: "+"<br />";
+                    textStr += "1. " + job1 + "&nbsp;&nbsp;-&nbsp;&nbsp; Average Salary: $" + pay1  + "<br />";
+                    textStr += "2. " + job2 + "&nbsp;&nbsp;-&nbsp;&nbsp; Average Salary: $" + pay2  + "<br />";
+                    textStr += "3. " + job3 + "&nbsp;&nbsp;-&nbsp;&nbsp; Average Salary: $" + pay3  + "<br />";
+                    if (predictDone==true) {textStr += "Predicted Job:<br /> - " + predictedJob + ": $" + predictPay.toString() + "<br />"};
+
+                    //var dataRow = earthquakes.get(d.properties.name);
+                    /*if (dataRow) {
+                        //console.log(dataRow);
+                        textStr = "Stuff: " +"<br />";
+                        textStr += "Job Stuff: " + "<br />";
+                        textStr += "Other Stuff: " + y + "<br />";
+                        textStr += "Things: " + dataRow[y];
+                        return textStr;
+                    } else {
+                        //console.log("no dataRow", d);
+                        return d.properties.name + ": No data.";
+                    }*/
+                    return textStr;
+                })
+
+
+            svg.call(tip);
+
+
+        //Promise.resolve(d3.json('counties-10m.topojson'))//us-counties.topojson
+        var script = document.currentScript;
+        var fullUrl = script.src;
+
+        //ar jsonUrl = fullUrl.replace("index.html", "counties-10m.json") // hard coded jsonUrl
+
+        /*$.getJSON(jsonUrl, function(from_to_conversions) {
+          console.log(from_to_conversions)
+          console.log("hey")
+          console.log(jsonUrl)
+          Promise.resolve(d3.json(jsonUrl))
+              .then(ready);
+          });*/
+        //Promise.resolve(d3.json('us-counties.topojson'))
+        /*var jsonn = `{{jsonn | safe}}`
+        console.log(jsonn);
+        jsonn = JSON.stringify(jsonn);
+        jsonn = jsonn.replace(/\\n/g, "\\n")
+               .replace(/\\'/g, "\\'")
+               .replace(/\\"/g, '\\"')
+               .replace(/\\&/g, "\\&")
+               .replace(/\\r/g, "\\r")
+               .replace(/\\t/g, "\\t")
+               .replace(/\\b/g, "\\b")
+               .replace(/\\f/g, "\\f");
+// remove non-printable and other non-valid JSON chars
+        jsonn = jsonn.replace(/[\u0000-\u0019]+/g,"");
+        var jsonn = JSON.parse(jsonn);
+        //var us = JSON.parse(JSON.stringify(jsonn).replace("\'", "\""));
+        console.log(typeof jsonn);
+        console.log(JSON.parse(JSON.stringify(jsonn)));
+        console.log(typeof us);*/
+        /*var us = [];
+        var keys = Object.keys(jsonn);
+        keys.forEach(function(key){
+        result.push(us[key]);
+      });*/
+        //us = us.data
+        //console.log(us);
+        /*d3.csv("/static/data.csv", function (data) {
+    console.log(data);
+  });*/
+        Promise.resolve(d3.json('/static/counties-10m.json'))
+            .then(ready);
+
+        var projection = d3.geoAlbersUsa()
+            .translate([width /2 , height / 2])
+            .scale(width);
+
+        var path = d3.geoPath()
+            .projection(projection);
+
+        var countyClicked = "";
+
+        var g = svg.append("g")
+            .attr('class', 'center-container center-items us-state')
+            .attr('transform', 'translate('+margin.left+','+margin.top+')')
+            .attr('width', width + margin.left + margin.right)
+            .attr('height', height + margin.top + margin.bottom)
+
+        function ready(us) {
+            statemap = topojson.feature(us, us.objects.states).features;
+
+
+            g.append("g")
+                .attr("id", "counties")
+                .selectAll("path")
+                .data(topojson.feature(us, us.objects.counties).features)
+                .enter().append("path")
+                .attr("d", path)
+                .attr("class", "county-boundary")
+                .on("click", tip.show)
+                //.on("click", reset)
+                .on('click', function (d) {
+                  //county code
+                  //console.log(d.id);
+                  //county name
+                  //console.log(d.properties.name);
+                  //console.log(d.properties.code);
+                  if(countyClicked == d.properties.name){
+                    countyClicked = "";
+                    reset();
+                    tip.hide(d);
+                  }else{
+                    //logic for first click on county
+                    countyClicked = d.properties.name;
+                    countyCode = d.id;
+                    tip.show(d);
+
+                  }
+                }).on('mouseover', function (d) {
+                    countyCode = d.id;
+                    //getEmpData();
+                    //getWageData();
+
+                    //if ind selected
+                    //indcode = "333242";
+                    //getIndData();
+                    if (predictDone==true) {
+                        getEmpData();
+                        getWageData();
+                        getIndData();
+                    } else {
+                        getEmpData();
+                        getWageData();
+                        getIndData();
+                    }
+
+                    /*if(indcode.length > 0){
+                        getIndData();
+                    }else{
+
+                    }*/
+
+                });//.on("click", tip.show);
+
+            g.append("g")
+                .attr("id", "states")
+                .selectAll("path")
+                .data(topojson.feature(us, us.objects.states).features)
+                .enter().append("path")
+                .attr("d", path)
+                .attr("class", "state")
+                .on("click", clicked)
+                .on('mouseover', function (d) {temp = d.properties.name;});
+
+
+
+            g.append("path")
+                .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+                .attr("id", "state-borders")
+                .attr("d", path);
+
+        }
+
+        function clicked(d) {
+            if (d3.select('.background').node() === this) return reset();
+
+            if (active.node() === this) return reset();
+
+            active.classed("active", false);
+            active = d3.select(this).classed("active", true);
+
+            var bounds = path.bounds(d),
+                dx = bounds[1][0] - bounds[0][0],
+                dy = bounds[1][1] - bounds[0][1],
+                x = (bounds[0][0] + bounds[1][0]) / 2,
+                y = (bounds[0][1] + bounds[1][1]) / 2,
+                scale = .9 / Math.max(dx / width, dy / height),
+                translate = [width / 2 - scale * x, height / 2 - scale * y];
+
+            g.transition()
+                .duration(750)
+                .style("stroke-width", 1.5 / scale + "px")
+                .attr("transform", "translate(" + translate + ")scale(" + scale + ")");
+        }
+
+        function checkDoubleClick(d) {
+
+        }
+
+        function getCLFData(){
+          param = jobHist.replace(" ", "");
+          param2 = "" + s1 + "," +s2 + "," +s3 + "," +s4 + "," +s5 + "," +s6;
+            //console.log(param);
+            //console.log(param2);
+            $.getJSON('/getClfData', { x : param, y : param2} );
+            d3.tsv("/static/clfData.csv").then(function(data) {
+               // console.log("job predicted: ")
+                //console.log(data);
+                predictedJob = data[0].i1;
+                predictDone = true;
+                document.getElementById('predictedJob').innerHTML = 'Predicted Job: ' + predictedJob;
+                document.getElementById('predButton').disabled = false;
+                delCLF();
+              }).then(function(data) {buildStateGradient();});
+                return false;
+        }
+
+
+        function buildStateGradient() {
+            d3.tsv('/static/state_fips.tsv', function(data) {
+                states.set(data["area_title"].trim(), data["fips"]);
+                //temp = states
+                //console.log(states);
+            }).then(function(data) {
+                //console.log(data);
+                //console.log(states);
+                var codes = "";
+                var i;
+                // loop through each state to grab location quotients
+                for (i = 0; i < states.keys().length; i++) {
+                    stateName = states.keys()[i];
+                    stateCode = states.get(stateName);
+                    codes += stateCode + ",";
+                }
+                param =  predictedJob;
+                param2 = codes.substring(0, codes.length - 1);
+                console.log(param2);
+                $.getJSON('/getMultiIndData', { x : param, y : param2} );
+                d3.tsv("/static/multiIndData.csv").then(function(data) {
+                    temp = data;
+                    //console.log(temp);
+                    minVal = 999999;
+                    maxVal = -999999;
+                    for (i = 0; i < data.length; i++) {
+                        id = data[i].i0
+                        qt = (parseFloat(data[i].i18) + parseFloat(data[i].i19) + parseFloat(data[i].i20)) / 3.0;
+                        quotients[id] = qt;
+                        if (qt < minVal) {minVal = qt};
+                        if (qt > maxVal) {maxVal = qt};
+                    };
+                    //console.log(minVal);
+                    //console.log(maxVal);
+                    color_domain = d3.range(minVal, maxVal, (maxVal-minVal)/10.0);
+                    color.domain(color_domain);
+                    //console.log("quotient dict: ");
+                    //console.log(quotients);
+                    //temp = quotients;
+                    //console.log("apply the gradient!!!!!!!");
+                    applyStateGradient();
+                });
+
+        });
+
+        return false;
+        };
+
+        function applyStateGradient() {
+            d3.selectAll(".state").attr("fill", function (d) {
+                //console.log(d.properties.name);
+                //console.log(states[d.properties.name]);
+                qt = quotients[states["$"+d.properties.name]];
+                //console.log(qt)
+                return color(qt);
+            });
+
+            var legend_keys = ["Low Job Concentration", "", "", "", "High Job Concentration"];
+
+            var color_scale = d3.schemeGreens[5];
+    	    var lineLegend = svg.selectAll(".lineLegend")
+    	        .data(legend_keys)
+	    	    .enter().append("g")
+	    	    .attr("class","lineLegend")
+	    	    .attr("transform", function (d,i) {
+	                return "translate(" + 10 + "," + ((i*20)+100)+")";
+                });
+   		    lineLegend.append("text").text(function (d) {return d;})
+    		    .attr("transform", "translate(15,9)"); //align texts with boxes
+    	    lineLegend.append("rect")
+	    	    .attr("fill", function (d, i) {return color_scale[i]; })
+	    	    .attr("width", 10).attr("height", 10);
+
+
+        }
+
+        function getIndData(){
+            // indcode = "23833";
+            //param = "" + indcode + "," + "US000"//countyCode
+            //console.log("param: ")
+            param =  "" + predictedJob + "," + countyCode;
+            //param =  "" + predictedJob + "," + "US000";
+
+            //console.log("parameter1")
+            //console.log(param);
+            $.getJSON('/getIndData', { x : param} );
+            d3.tsv("/static/indData.csv").then(function(data, d) {
+                //console.log(data);
+
+                //console.log("indData:");
+                //console.log(data);
+                predictPay = data[0].i15 * 52;
+                //console.log(predictPay);
+
+                //console.log('data[0]');
+                /*arr = data.columns
+                job1 = data[0].i1;
+                job2 = data[1].i1;
+                job3 = data[2].i1;
+                pay1 = data[0].i5;
+                pay2 = data[1].i5;
+                pay3 = data[2].i5;*/
+                //tip.show(d, this);
+
+
+              });
+
+                return false;
+
+                      }
+
+        function getEmpData(){
+          param = countyCode
+            $.getJSON('/getEmpData', { x : param} );
+            /*function (data) {
+              console.log(data.Stuff);
+              //console.log(data.key);
+
+              });
+            //wait(7000);
+            console.log("waited 7s")
+            */
+            d3.tsv("/static/empData.csv").then(function(data, d) {
+                //console.log("emp data: ");
+                //console.log(data);
+              /*console.log("empData:");
+                console.log(data);
+                console.log('data[0]');
+                console.log(data[0]);
+                console.log('data[1]');
+                console.log(data[1]);*/
+                //console.log(data.columns);
+                //i1 = job title
+                //i5 = salary
+                arr = data.columns
+                job1 = data[0].i1;
+                job2 = data[1].i1;
+                job3 = data[2].i1;
+                pay1 = data[0].i5;
+                pay2 = data[1].i5;
+                pay3 = data[2].i5;
+                //tip.show(d, this);
+
+
+              });
+
+                return false;
+
+                      }
+
+         function getWageData(){
+            param = countyCode
+            $.getJSON('/getWageData', { x : param}/*, function(data) {}*/);
+
+            d3.tsv("/static/wageData.csv").then(function(data) {
+                //console.log("wage data: ");
+                //console.log(data);
+                /*console.log('data[0]');
+                console.log(data[0]);
+                console.log('data[1]');
+                console.log(data[1]);
+                console.log('data[2]');
+                console.log(data[2]);*/
+                });
+            return false;
+            }
+
+            function delCLF(){
+            $.getJSON('/delCLF');
+            return false;
+            }
+
+         /*function getCLFData(){
+               param = countyCode
+               $.getJSON('/getClfData', { x : param});
+               d3.csv("static/clfData.csv").then(function(data) {
+                   console.log(data[0]);
+                   });
+               return false;
+             }*/
+
+        function reset() {
+            //console.log(active);
+            countyClicked = "";
+            tip.hide();
+            active.classed("active", false);
+            active = d3.select(null);
+            //predictDone = false;
+
+            g.transition()
+                .delay(100)
+                .duration(750)
+                .style("stroke-width", "1.5px")
+                .attr('transform', 'translate('+margin.left+','+margin.top+')');
+
+        }
+
+        /*const fs = require('fs')
+
+          // Data which will write in a file.
+
+          // Write data in 'Output.txt' .
+          function writeCounty(data) {
+            var csvContent=data; //here we load our csv data
+            var blob = new Blob([csvContent],{
+              type: "text/csv;charset=utf-8;"
+            });
+
+            navigator.msSaveBlob(blob, "static/county.csv")
+          }*/
+
+        function readData() {
+
+              d3.csv("/static/userData.csv").then(function(data) {
+                  //console.log(data[0]);
+                  });
+
+        }
+    </script>
+    <br><input type="button" onclick="reset()" value="Reset Map" style="float: right;" style="font-family:verdana"><br>
+
+</body>
+</html>
