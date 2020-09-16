@@ -3,6 +3,11 @@ CSE 6242 Team 44 (Witty Goldfish) Project Deliverables README
 #############################################################
 
 ###########
+LINK TO DEMO VIDEO
+###########
+https://www.youtube.com/watch?v=4M1lOPqZFTk&feature=youtu.be
+
+###########
 DESCRIPTION
 ###########
 
@@ -202,8 +207,3 @@ After navigating to the website, follow the below instructions to test the funct
   6a. Clicking on a state will zoom in to display the counties in a state.
   6b. Clicking on a county wil open a tool tip displaying relevant job information in the county.
   6c. To reset the map, the user can click on a county twice, click outside of the map, or click the reset button in the bottom right hand corner of the page.
-
-###########
-LINK TO DEMO VIDEO
-###########
-https://www.youtube.com/watch?v=4M1lOPqZFTk&feature=youtu.be
