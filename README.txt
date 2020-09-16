@@ -20,6 +20,8 @@ into several classifier models to predict results. This code base also includes
 a program built to query the Bureau of Labor Statistics API for generic employment
 statistics for our mapping tool.
 
+(If you would like to request a copy of the academic report, please email hultsb@gmail.com)
+
 ###### Instructions on how to download data from IPUMS CPS ######
 Our training dataset is available for download from the IPUMS CPS website
 and can be accessed via the following steps.
